@@ -75,26 +75,24 @@ class ReflexAgent(Agent):
         newScaredTimes = [ghostState.scaredTimer for ghostState in newGhostStates]
 
         "*** YOUR CODE HERE ***"
-        # Get successor game state information
         score = successorGameState.getScore()
 
-        # Evaluate food (using reciprocal values)
+        # food evaluatie
         foodList = newFood.asList()
         if foodList:
-            # Calculate closest food distance
+            # dichtstbijzijnde food
             foodDistances = [manhattanDistance(newPos, food) for food in foodList]
             minFoodDistance = min(foodDistances)
             if minFoodDistance > 0:
                 score += 1.0 / minFoodDistance
                 
-        # Evaluate ghosts (using reciprocal values)
+        # ghost evaluatie
         for ghostState in newGhostStates:
             ghostDist = manhattanDistance(newPos, ghostState.getPosition())
-            # Heavily penalize being too close to a ghost
+            # als ghost te dichtbij is
             if ghostDist < 2:
-                return -float('inf')  # Ensure Pacman avoids immediate death
-            # Add ghost influence using reciprocal
-            if ghostDist > 0:  # Prevent division by zero
+                return -float('inf')  # zorg dat je niet doodgaat
+            if ghostDist > 0:
                 score -= 2.0 / ghostDist
 
         return score
@@ -158,7 +156,54 @@ class MinimaxAgent(MultiAgentSearchAgent):
         Returns whether or not the game state is a losing state
         """
         "*** YOUR CODE HERE ***"
-        util.raiseNotDefined()
+        def minimax(state, agentIndex, depth):
+            # check eerst of we in een eindstaat zijn
+            if state.isWin() or state.isLose() or depth == self.depth:
+                return self.evaluationFunction(state)
+                
+            numAgents = state.getNumAgents()
+            
+            # alle mogelijke acties
+            legalActions = state.getLegalActions(agentIndex)
+            
+            # geen mogelijke acties
+            if not legalActions:
+                return self.evaluationFunction(state)
+                
+            nextAgent = (agentIndex + 1) % numAgents
+            nextDepth = depth + 1 if nextAgent == 0 else depth
+            
+            # initialiseer gebasseerd op agent (max voor pacman, min voor ghost)
+            if agentIndex == 0:  # pacman
+                value = float("-inf")
+                for action in legalActions:
+                    successorState = state.generateSuccessor(agentIndex, action)
+                    value = max(value, minimax(successorState, nextAgent, nextDepth))
+            else:  # ghost
+                value = float("inf")
+                for action in legalActions:
+                    successorState = state.generateSuccessor(agentIndex, action)
+                    value = min(value, minimax(successorState, nextAgent, nextDepth))
+                    
+            return value
+
+        # beste actie voor pacman
+        legalActions = gameState.getLegalActions(0)
+        if not legalActions:
+            return None
+            
+        # vind de actie met de hoogste waarde
+        bestValue = float("-inf")
+        bestAction = None
+        
+        for action in legalActions:
+            successorState = gameState.generateSuccessor(0, action)
+            value = minimax(successorState, 1, 0)
+            if value > bestValue:
+                bestValue = value
+                bestAction = action
+                
+        return bestAction
 
 class AlphaBetaAgent(MultiAgentSearchAgent):
     """
