@@ -1,0 +1,2308 @@
+[
+    {
+        "label": "grading",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "grading",
+        "description": "grading",
+        "detail": "grading",
+        "documentation": {}
+    },
+    {
+        "label": "imp",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "imp",
+        "description": "imp",
+        "detail": "imp",
+        "documentation": {}
+    },
+    {
+        "label": "optparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "optparse",
+        "description": "optparse",
+        "detail": "optparse",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "pprint",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pprint",
+        "description": "pprint",
+        "detail": "pprint",
+        "documentation": {}
+    },
+    {
+        "label": "PrettyPrinter",
+        "importPath": "pprint",
+        "description": "pprint",
+        "isExtraImport": true,
+        "detail": "pprint",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "projectParams",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "projectParams",
+        "description": "projectParams",
+        "detail": "projectParams",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "util",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "util",
+        "description": "util",
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "util",
+        "description": "util",
+        "isExtraImport": true,
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "manhattanDistance",
+        "importPath": "util",
+        "description": "util",
+        "isExtraImport": true,
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "manhattanDistance",
+        "importPath": "util",
+        "description": "util",
+        "isExtraImport": true,
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "manhattanDistance",
+        "importPath": "util",
+        "description": "util",
+        "isExtraImport": true,
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "TimeoutFunction",
+        "importPath": "util",
+        "description": "util",
+        "isExtraImport": true,
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "nearestPoint",
+        "importPath": "util",
+        "description": "util",
+        "isExtraImport": true,
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "manhattanDistance",
+        "importPath": "util",
+        "description": "util",
+        "isExtraImport": true,
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "traceback",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "traceback",
+        "description": "traceback",
+        "detail": "traceback",
+        "documentation": {}
+    },
+    {
+        "label": "game",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "game",
+        "description": "game",
+        "detail": "game",
+        "documentation": {}
+    },
+    {
+        "label": "Agent",
+        "importPath": "game",
+        "description": "game",
+        "isExtraImport": true,
+        "detail": "game",
+        "documentation": {}
+    },
+    {
+        "label": "Actions",
+        "importPath": "game",
+        "description": "game",
+        "isExtraImport": true,
+        "detail": "game",
+        "documentation": {}
+    },
+    {
+        "label": "Directions",
+        "importPath": "game",
+        "description": "game",
+        "isExtraImport": true,
+        "detail": "game",
+        "documentation": {}
+    },
+    {
+        "label": "Directions",
+        "importPath": "game",
+        "description": "game",
+        "isExtraImport": true,
+        "detail": "game",
+        "documentation": {}
+    },
+    {
+        "label": "Agent",
+        "importPath": "game",
+        "description": "game",
+        "isExtraImport": true,
+        "detail": "game",
+        "documentation": {}
+    },
+    {
+        "label": "Directions",
+        "importPath": "game",
+        "description": "game",
+        "isExtraImport": true,
+        "detail": "game",
+        "documentation": {}
+    },
+    {
+        "label": "Grid",
+        "importPath": "game",
+        "description": "game",
+        "isExtraImport": true,
+        "detail": "game",
+        "documentation": {}
+    },
+    {
+        "label": "Directions",
+        "importPath": "game",
+        "description": "game",
+        "isExtraImport": true,
+        "detail": "game",
+        "documentation": {}
+    },
+    {
+        "label": "Agent",
+        "importPath": "game",
+        "description": "game",
+        "isExtraImport": true,
+        "detail": "game",
+        "documentation": {}
+    },
+    {
+        "label": "Agent",
+        "importPath": "game",
+        "description": "game",
+        "isExtraImport": true,
+        "detail": "game",
+        "documentation": {}
+    },
+    {
+        "label": "GameStateData",
+        "importPath": "game",
+        "description": "game",
+        "isExtraImport": true,
+        "detail": "game",
+        "documentation": {}
+    },
+    {
+        "label": "Game",
+        "importPath": "game",
+        "description": "game",
+        "isExtraImport": true,
+        "detail": "game",
+        "documentation": {}
+    },
+    {
+        "label": "Directions",
+        "importPath": "game",
+        "description": "game",
+        "isExtraImport": true,
+        "detail": "game",
+        "documentation": {}
+    },
+    {
+        "label": "Actions",
+        "importPath": "game",
+        "description": "game",
+        "isExtraImport": true,
+        "detail": "game",
+        "documentation": {}
+    },
+    {
+        "label": "Agent",
+        "importPath": "game",
+        "description": "game",
+        "isExtraImport": true,
+        "detail": "game",
+        "documentation": {}
+    },
+    {
+        "label": "html",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "html",
+        "description": "html",
+        "detail": "html",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "pdb",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pdb",
+        "description": "pdb",
+        "detail": "pdb",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "graphicsUtils",
+        "description": "graphicsUtils",
+        "isExtraImport": true,
+        "detail": "graphicsUtils",
+        "documentation": {}
+    },
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "string",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "string",
+        "description": "string",
+        "detail": "string",
+        "documentation": {}
+    },
+    {
+        "label": "types",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "types",
+        "description": "types",
+        "detail": "types",
+        "documentation": {}
+    },
+    {
+        "label": "tkinter",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "os.path",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os.path",
+        "description": "os.path",
+        "detail": "os.path",
+        "documentation": {}
+    },
+    {
+        "label": "reduce",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "random,",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random.",
+        "description": "random.",
+        "detail": "random.",
+        "documentation": {}
+    },
+    {
+        "label": "pacman",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pacman",
+        "description": "pacman",
+        "detail": "pacman",
+        "documentation": {}
+    },
+    {
+        "label": "GameState",
+        "importPath": "pacman",
+        "description": "pacman",
+        "isExtraImport": true,
+        "detail": "pacman",
+        "documentation": {}
+    },
+    {
+        "label": "GameState",
+        "importPath": "pacman",
+        "description": "pacman",
+        "isExtraImport": true,
+        "detail": "pacman",
+        "documentation": {}
+    },
+    {
+        "label": "Directions",
+        "importPath": "pacman",
+        "description": "pacman",
+        "isExtraImport": true,
+        "detail": "pacman",
+        "documentation": {}
+    },
+    {
+        "label": "testClasses",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "testClasses",
+        "description": "testClasses",
+        "detail": "testClasses",
+        "documentation": {}
+    },
+    {
+        "label": "RandomGhost",
+        "importPath": "ghostAgents",
+        "description": "ghostAgents",
+        "isExtraImport": true,
+        "detail": "ghostAgents",
+        "documentation": {}
+    },
+    {
+        "label": "DirectionalGhost",
+        "importPath": "ghostAgents",
+        "description": "ghostAgents",
+        "isExtraImport": true,
+        "detail": "ghostAgents",
+        "documentation": {}
+    },
+    {
+        "label": "layout",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "layout",
+        "description": "layout",
+        "detail": "layout",
+        "documentation": {}
+    },
+    {
+        "label": "autograder",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "autograder",
+        "description": "autograder",
+        "detail": "autograder",
+        "documentation": {}
+    },
+    {
+        "label": "print_function",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "open",
+        "importPath": "codecs",
+        "description": "codecs",
+        "isExtraImport": true,
+        "detail": "codecs",
+        "documentation": {}
+    },
+    {
+        "label": "os,",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os.",
+        "description": "os.",
+        "detail": "os.",
+        "documentation": {}
+    },
+    {
+        "label": "bz2,",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "bz2.",
+        "description": "bz2.",
+        "detail": "bz2.",
+        "documentation": {}
+    },
+    {
+        "label": "inspect",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "inspect",
+        "description": "inspect",
+        "detail": "inspect",
+        "documentation": {}
+    },
+    {
+        "label": "heapq",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "heapq",
+        "description": "heapq",
+        "detail": "heapq",
+        "documentation": {}
+    },
+    {
+        "label": "io",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "io",
+        "description": "io",
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "signal",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "signal",
+        "description": "signal",
+        "detail": "signal",
+        "documentation": {}
+    },
+    {
+        "label": "readCommand",
+        "kind": 2,
+        "importPath": "autograder",
+        "description": "autograder",
+        "peekOfCode": "def readCommand(argv):\n    parser = optparse.OptionParser(\n        description='Run public tests on student code')\n    parser.set_defaults(generateSolutions=False, edxOutput=False, gsOutput=False,\n                        muteOutput=False, printTestCase=False, noGraphics=False)\n    parser.add_option('--test-directory',\n                      dest='testRoot',\n                      default='test_cases',\n                      help='Root test directory which contains subdirectories corresponding to each question')\n    parser.add_option('--student-code',",
+        "detail": "autograder",
+        "documentation": {}
+    },
+    {
+        "label": "confirmGenerate",
+        "kind": 2,
+        "importPath": "autograder",
+        "description": "autograder",
+        "peekOfCode": "def confirmGenerate():\n    print('WARNING: this action will overwrite any solution files.')\n    print('Are you sure you want to proceed? (yes/no)')\n    while True:\n        ans = sys.stdin.readline().strip()\n        if ans == 'yes':\n            break\n        elif ans == 'no':\n            sys.exit(0)\n        else:",
+        "detail": "autograder",
+        "documentation": {}
+    },
+    {
+        "label": "setModuleName",
+        "kind": 2,
+        "importPath": "autograder",
+        "description": "autograder",
+        "peekOfCode": "def setModuleName(module, filename):\n    functionType = type(confirmGenerate)\n    classType = type(optparse.Option)\n    for i in dir(module):\n        o = getattr(module, i)\n        if hasattr(o, '__file__'):\n            continue\n        if type(o) == functionType:\n            setattr(o, '__file__', filename)\n        elif type(o) == classType:",
+        "detail": "autograder",
+        "documentation": {}
+    },
+    {
+        "label": "loadModuleString",
+        "kind": 2,
+        "importPath": "autograder",
+        "description": "autograder",
+        "peekOfCode": "def loadModuleString(moduleSource):\n    # Below broken, imp doesn't believe its being passed a file:\n    #    ValueError: load_module arg#2 should be a file or None\n    #\n    #f = StringIO(moduleCodeDict[k])\n    #tmp = imp.load_module(k, f, k, (\".py\", \"r\", imp.PY_SOURCE))\n    tmp = imp.new_module(k)\n    exec(moduleCodeDict[k], tmp.__dict__)\n    setModuleName(tmp, k)\n    return tmp",
+        "detail": "autograder",
+        "documentation": {}
+    },
+    {
+        "label": "loadModuleFile",
+        "kind": 2,
+        "importPath": "autograder",
+        "description": "autograder",
+        "peekOfCode": "def loadModuleFile(moduleName, filePath):\n    with open(filePath, 'r') as f:\n        return imp.load_module(moduleName, f, \"%s.py\" % moduleName, (\".py\", \"r\", imp.PY_SOURCE))\ndef readFile(path, root=\"\"):\n    \"Read file from disk at specified path and return as string\"\n    with open(os.path.join(root, path), 'r') as handle:\n        return handle.read()\n#######################################################################\n# Error Hint Map\n#######################################################################",
+        "detail": "autograder",
+        "documentation": {}
+    },
+    {
+        "label": "readFile",
+        "kind": 2,
+        "importPath": "autograder",
+        "description": "autograder",
+        "peekOfCode": "def readFile(path, root=\"\"):\n    \"Read file from disk at specified path and return as string\"\n    with open(os.path.join(root, path), 'r') as handle:\n        return handle.read()\n#######################################################################\n# Error Hint Map\n#######################################################################\n# TODO: use these\nERROR_HINT_MAP = {\n    'q1': {",
+        "detail": "autograder",
+        "documentation": {}
+    },
+    {
+        "label": "splitStrings",
+        "kind": 2,
+        "importPath": "autograder",
+        "description": "autograder",
+        "peekOfCode": "def splitStrings(d):\n    d2 = dict(d)\n    for k in d:\n        if k[0:2] == \"__\":\n            del d2[k]\n            continue\n        if d2[k].find(\"\\n\") >= 0:\n            d2[k] = d2[k].split(\"\\n\")\n    return d2\ndef printTest(testDict, solutionDict):",
+        "detail": "autograder",
+        "documentation": {}
+    },
+    {
+        "label": "printTest",
+        "kind": 2,
+        "importPath": "autograder",
+        "description": "autograder",
+        "peekOfCode": "def printTest(testDict, solutionDict):\n    pp = pprint.PrettyPrinter(indent=4)\n    print(\"Test case:\")\n    for line in testDict[\"__raw_lines__\"]:\n        print(\"   |\", line)\n    print(\"Solution:\")\n    for line in solutionDict[\"__raw_lines__\"]:\n        print(\"   |\", line)\ndef runTest(testName, moduleDict, printTestCase=False, display=None):\n    import testParser",
+        "detail": "autograder",
+        "documentation": {}
+    },
+    {
+        "label": "runTest",
+        "kind": 2,
+        "importPath": "autograder",
+        "description": "autograder",
+        "peekOfCode": "def runTest(testName, moduleDict, printTestCase=False, display=None):\n    import testParser\n    import testClasses\n    for module in moduleDict:\n        setattr(sys.modules[__name__], module, moduleDict[module])\n    testDict = testParser.TestParser(testName + \".test\").parse()\n    solutionDict = testParser.TestParser(testName + \".solution\").parse()\n    test_out_file = os.path.join('%s.test_output' % testName)\n    testDict['test_out_file'] = test_out_file\n    testClass = getattr(projectTestClasses, testDict['class'])",
+        "detail": "autograder",
+        "documentation": {}
+    },
+    {
+        "label": "getDepends",
+        "kind": 2,
+        "importPath": "autograder",
+        "description": "autograder",
+        "peekOfCode": "def getDepends(testParser, testRoot, question):\n    allDeps = [question]\n    questionDict = testParser.TestParser(\n        os.path.join(testRoot, question, 'CONFIG')).parse()\n    if 'depends' in questionDict:\n        depends = questionDict['depends'].split()\n        for d in depends:\n            # run dependencies first\n            allDeps = getDepends(testParser, testRoot, d) + allDeps\n    return allDeps",
+        "detail": "autograder",
+        "documentation": {}
+    },
+    {
+        "label": "getTestSubdirs",
+        "kind": 2,
+        "importPath": "autograder",
+        "description": "autograder",
+        "peekOfCode": "def getTestSubdirs(testParser, testRoot, questionToGrade):\n    problemDict = testParser.TestParser(\n        os.path.join(testRoot, 'CONFIG')).parse()\n    if questionToGrade != None:\n        questions = getDepends(testParser, testRoot, questionToGrade)\n        if len(questions) > 1:\n            print('Note: due to dependencies, the following tests will be run: %s' %\n                  ' '.join(questions))\n        return questions\n    if 'order' in problemDict:",
+        "detail": "autograder",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate",
+        "kind": 2,
+        "importPath": "autograder",
+        "description": "autograder",
+        "peekOfCode": "def evaluate(generateSolutions, testRoot, moduleDict, exceptionMap=ERROR_HINT_MAP,\n             edxOutput=False, muteOutput=False, gsOutput=False,\n             printTestCase=False, questionToGrade=None, display=None):\n    # imports of testbench code.  note that the testClasses import must follow\n    # the import of student code due to dependencies\n    import testParser\n    import testClasses\n    for module in moduleDict:\n        setattr(sys.modules[__name__], module, moduleDict[module])\n    questions = []",
+        "detail": "autograder",
+        "documentation": {}
+    },
+    {
+        "label": "getDisplay",
+        "kind": 2,
+        "importPath": "autograder",
+        "description": "autograder",
+        "peekOfCode": "def getDisplay(graphicsByDefault, options=None):\n    graphics = graphicsByDefault\n    if options is not None and options.noGraphics:\n        graphics = False\n    if graphics:\n        try:\n            import graphicsDisplay\n            return graphicsDisplay.PacmanGraphics(1, frameTime=.05)\n        except ImportError:\n            pass",
+        "detail": "autograder",
+        "documentation": {}
+    },
+    {
+        "label": "ERROR_HINT_MAP",
+        "kind": 5,
+        "importPath": "autograder",
+        "description": "autograder",
+        "peekOfCode": "ERROR_HINT_MAP = {\n    'q1': {\n        \"<type 'exceptions.IndexError'>\": \"\"\"\n      We noticed that your project threw an IndexError on q1.\n      While many things may cause this, it may have been from\n      assuming a certain number of successors from a state space\n      or assuming a certain number of actions available from a given\n      state. Try making your code more general (no hardcoded indices)\n      and submit again!\n    \"\"\"",
+        "detail": "autograder",
+        "documentation": {}
+    },
+    {
+        "label": "Agent",
+        "kind": 6,
+        "importPath": "game",
+        "description": "game",
+        "peekOfCode": "class Agent:\n    \"\"\"\n    An agent must define a getAction method, but may also define the\n    following methods which will be called if they exist:\n    def registerInitialState(self, state): # inspects the starting state\n    \"\"\"\n    def __init__(self, index=0):\n        self.index = index\n    def getAction(self, state):\n        \"\"\"",
+        "detail": "game",
+        "documentation": {}
+    },
+    {
+        "label": "Directions",
+        "kind": 6,
+        "importPath": "game",
+        "description": "game",
+        "peekOfCode": "class Directions:\n    NORTH = 'North'\n    SOUTH = 'South'\n    EAST = 'East'\n    WEST = 'West'\n    STOP = 'Stop'\n    LEFT = {NORTH: WEST,\n            SOUTH: EAST,\n            EAST:  NORTH,\n            WEST:  SOUTH,",
+        "detail": "game",
+        "documentation": {}
+    },
+    {
+        "label": "Configuration",
+        "kind": 6,
+        "importPath": "game",
+        "description": "game",
+        "peekOfCode": "class Configuration:\n    \"\"\"\n    A Configuration holds the (x,y) coordinate of a character, along with its\n    traveling direction.\n    The convention for positions, like a graph, is that (0,0) is the lower left corner, x increases\n    horizontally and y increases vertically.  Therefore, north is the direction of increasing y, or (0,1).\n    \"\"\"\n    def __init__(self, pos, direction):\n        self.pos = pos\n        self.direction = direction",
+        "detail": "game",
+        "documentation": {}
+    },
+    {
+        "label": "AgentState",
+        "kind": 6,
+        "importPath": "game",
+        "description": "game",
+        "peekOfCode": "class AgentState:\n    \"\"\"\n    AgentStates hold the state of an agent (configuration, speed, scared, etc).\n    \"\"\"\n    def __init__(self, startConfiguration, isPacman):\n        self.start = startConfiguration\n        self.configuration = startConfiguration\n        self.isPacman = isPacman\n        self.scaredTimer = 0\n        # state below potentially used for contest only",
+        "detail": "game",
+        "documentation": {}
+    },
+    {
+        "label": "Grid",
+        "kind": 6,
+        "importPath": "game",
+        "description": "game",
+        "peekOfCode": "class Grid:\n    \"\"\"\n    A 2-dimensional array of objects backed by a list of lists.  Data is accessed\n    via grid[x][y] where (x,y) are positions on a Pacman map with x horizontal,\n    y vertical and the origin (0,0) in the bottom left corner.\n    The __str__ method constructs an output that is oriented like a pacman board.\n    \"\"\"\n    def __init__(self, width, height, initialValue=False, bitRepresentation=None):\n        if initialValue not in [False, True]:\n            raise Exception('Grids can only contain booleans')",
+        "detail": "game",
+        "documentation": {}
+    },
+    {
+        "label": "Actions",
+        "kind": 6,
+        "importPath": "game",
+        "description": "game",
+        "peekOfCode": "class Actions:\n    \"\"\"\n    A collection of static methods for manipulating move actions.\n    \"\"\"\n    # Directions\n    _directions = {Directions.WEST:  (-1, 0),\n                   Directions.STOP:  (0, 0),\n                   Directions.EAST:  (1, 0),\n                   Directions.NORTH: (0, 1),\n                   Directions.SOUTH: (0, -1)}",
+        "detail": "game",
+        "documentation": {}
+    },
+    {
+        "label": "GameStateData",
+        "kind": 6,
+        "importPath": "game",
+        "description": "game",
+        "peekOfCode": "class GameStateData:\n    def __init__(self, prevState=None):\n        \"\"\"\n        Generates a new data packet by copying information from its predecessor.\n        \"\"\"\n        if prevState != None:\n            self.food = prevState.food.shallowCopy()\n            self.capsules = prevState.capsules[:]\n            self.agentStates = self.copyAgentStates(prevState.agentStates)\n            self.layout = prevState.layout",
+        "detail": "game",
+        "documentation": {}
+    },
+    {
+        "label": "Game",
+        "kind": 6,
+        "importPath": "game",
+        "description": "game",
+        "peekOfCode": "class Game:\n    \"\"\"\n    The Game manages the control flow, soliciting actions from agents.\n    \"\"\"\n    def __init__(self, agents, display, rules, startingIndex=0, muteAgents=False, catchExceptions=False):\n        self.agentCrashed = False\n        self.agents = agents\n        self.display = display\n        self.rules = rules\n        self.startingIndex = startingIndex",
+        "detail": "game",
+        "documentation": {}
+    },
+    {
+        "label": "reconstituteGrid",
+        "kind": 2,
+        "importPath": "game",
+        "description": "game",
+        "peekOfCode": "def reconstituteGrid(bitRep):\n    if type(bitRep) is not type((1, 2)):\n        return bitRep\n    width, height = bitRep[:2]\n    return Grid(width, height, bitRepresentation=bitRep[2:])\n####################################\n# Parts you shouldn't have to read #\n####################################\nclass Actions:\n    \"\"\"",
+        "detail": "game",
+        "documentation": {}
+    },
+    {
+        "label": "GhostAgent",
+        "kind": 6,
+        "importPath": "ghostAgents",
+        "description": "ghostAgents",
+        "peekOfCode": "class GhostAgent(Agent):\n    def __init__(self, index):\n        self.index = index\n    def getAction(self, state):\n        dist = self.getDistribution(state)\n        if len(dist) == 0:\n            return Directions.STOP\n        else:\n            return util.chooseFromDistribution(dist)\n    def getDistribution(self, state):",
+        "detail": "ghostAgents",
+        "documentation": {}
+    },
+    {
+        "label": "RandomGhost",
+        "kind": 6,
+        "importPath": "ghostAgents",
+        "description": "ghostAgents",
+        "peekOfCode": "class RandomGhost(GhostAgent):\n    \"A ghost that chooses a legal action uniformly at random.\"\n    def getDistribution(self, state):\n        dist = util.Counter()\n        for a in state.getLegalActions(self.index):\n            dist[a] = 1.0\n        dist.normalize()\n        return dist\nclass DirectionalGhost(GhostAgent):\n    \"A ghost that prefers to rush Pacman, or flee when scared.\"",
+        "detail": "ghostAgents",
+        "documentation": {}
+    },
+    {
+        "label": "DirectionalGhost",
+        "kind": 6,
+        "importPath": "ghostAgents",
+        "description": "ghostAgents",
+        "peekOfCode": "class DirectionalGhost(GhostAgent):\n    \"A ghost that prefers to rush Pacman, or flee when scared.\"\n    def __init__(self, index, prob_attack=0.8, prob_scaredFlee=0.8):\n        self.index = index\n        self.prob_attack = prob_attack\n        self.prob_scaredFlee = prob_scaredFlee\n    def getDistribution(self, state):\n        # Read variables from state\n        ghostState = state.getGhostState(self.index)\n        legalActions = state.getLegalActions(self.index)",
+        "detail": "ghostAgents",
+        "documentation": {}
+    },
+    {
+        "label": "Grades",
+        "kind": 6,
+        "importPath": "grading",
+        "description": "grading",
+        "peekOfCode": "class Grades:\n    \"A data structure for project grades, along with formatting code to display them\"\n    def __init__(self, projectName, questionsAndMaxesList,\n                 gsOutput=False, edxOutput=False, muteOutput=False):\n        \"\"\"\n        Defines the grading scheme for a project\n          projectName: project name\n          questionsAndMaxesDict: a list of (question name, max points per question)\n        \"\"\"\n        self.questions = [el[0] for el in questionsAndMaxesList]",
+        "detail": "grading",
+        "documentation": {}
+    },
+    {
+        "label": "Counter",
+        "kind": 6,
+        "importPath": "grading",
+        "description": "grading",
+        "peekOfCode": "class Counter(dict):\n    \"\"\"\n    Dict with default 0\n    \"\"\"\n    def __getitem__(self, idx):\n        try:\n            return dict.__getitem__(self, idx)\n        except KeyError:\n            return 0\n    def totalCount(self):",
+        "detail": "grading",
+        "documentation": {}
+    },
+    {
+        "label": "InfoPane",
+        "kind": 6,
+        "importPath": "graphicsDisplay",
+        "description": "graphicsDisplay",
+        "peekOfCode": "class InfoPane:\n    def __init__(self, layout, gridSize):\n        self.gridSize = gridSize\n        self.width = (layout.width) * gridSize\n        self.base = (layout.height + 1) * gridSize\n        self.height = INFO_PANE_HEIGHT\n        self.fontSize = 24\n        self.textColor = PACMAN_COLOR\n        self.drawPane()\n    def toScreen(self, pos, y=None):",
+        "detail": "graphicsDisplay",
+        "documentation": {}
+    },
+    {
+        "label": "PacmanGraphics",
+        "kind": 6,
+        "importPath": "graphicsDisplay",
+        "description": "graphicsDisplay",
+        "peekOfCode": "class PacmanGraphics:\n    def __init__(self, zoom=1.0, frameTime=0.0, capture=False):\n        self.have_window = 0\n        self.currentGhostImages = {}\n        self.pacmanImage = None\n        self.zoom = zoom\n        self.gridSize = DEFAULT_GRID_SIZE * zoom\n        self.capture = capture\n        self.frameTime = frameTime\n    def checkNullDisplay(self):",
+        "detail": "graphicsDisplay",
+        "documentation": {}
+    },
+    {
+        "label": "FirstPersonPacmanGraphics",
+        "kind": 6,
+        "importPath": "graphicsDisplay",
+        "description": "graphicsDisplay",
+        "peekOfCode": "class FirstPersonPacmanGraphics(PacmanGraphics):\n    def __init__(self, zoom=1.0, showGhosts=True, capture=False, frameTime=0):\n        PacmanGraphics.__init__(self, zoom, frameTime=frameTime)\n        self.showGhosts = showGhosts\n        self.capture = capture\n    def initialize(self, state, isBlue=False):\n        self.isBlue = isBlue\n        PacmanGraphics.startGraphics(self, state)\n        # Initialize distribution images\n        walls = state.layout.walls",
+        "detail": "graphicsDisplay",
+        "documentation": {}
+    },
+    {
+        "label": "add",
+        "kind": 2,
+        "importPath": "graphicsDisplay",
+        "description": "graphicsDisplay",
+        "peekOfCode": "def add(x, y):\n    return (x[0] + y[0], x[1] + y[1])\n# Saving graphical output\n# -----------------------\n# Note: to make an animated gif from this postscript output, try the command:\n# convert -delay 7 -loop 1 -compress lzw -layers optimize frame* out.gif\n# convert is part of imagemagick (freeware)\nSAVE_POSTSCRIPT = False\nPOSTSCRIPT_OUTPUT_DIR = 'frames'\nFRAME_NUMBER = 0",
+        "detail": "graphicsDisplay",
+        "documentation": {}
+    },
+    {
+        "label": "saveFrame",
+        "kind": 2,
+        "importPath": "graphicsDisplay",
+        "description": "graphicsDisplay",
+        "peekOfCode": "def saveFrame():\n    \"Saves the current graphical output as a postscript file\"\n    global SAVE_POSTSCRIPT, FRAME_NUMBER, POSTSCRIPT_OUTPUT_DIR\n    if not SAVE_POSTSCRIPT:\n        return\n    if not os.path.exists(POSTSCRIPT_OUTPUT_DIR):\n        os.mkdir(POSTSCRIPT_OUTPUT_DIR)\n    name = os.path.join(POSTSCRIPT_OUTPUT_DIR, 'frame_%08d.ps' % FRAME_NUMBER)\n    FRAME_NUMBER += 1\n    writePostscript(name)  # writes the current canvas",
+        "detail": "graphicsDisplay",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_GRID_SIZE",
+        "kind": 5,
+        "importPath": "graphicsDisplay",
+        "description": "graphicsDisplay",
+        "peekOfCode": "DEFAULT_GRID_SIZE = 30.0\nINFO_PANE_HEIGHT = 35\nBACKGROUND_COLOR = formatColor(0, 0, 0)\nWALL_COLOR = formatColor(0.0/255.0, 51.0/255.0, 255.0/255.0)\nINFO_PANE_COLOR = formatColor(.4, .4, 0)\nSCORE_COLOR = formatColor(.9, .9, .9)\nPACMAN_OUTLINE_WIDTH = 2\nPACMAN_CAPTURE_OUTLINE_WIDTH = 4\nGHOST_COLORS = []\nGHOST_COLORS.append(formatColor(.9, 0, 0))  # Red",
+        "detail": "graphicsDisplay",
+        "documentation": {}
+    },
+    {
+        "label": "INFO_PANE_HEIGHT",
+        "kind": 5,
+        "importPath": "graphicsDisplay",
+        "description": "graphicsDisplay",
+        "peekOfCode": "INFO_PANE_HEIGHT = 35\nBACKGROUND_COLOR = formatColor(0, 0, 0)\nWALL_COLOR = formatColor(0.0/255.0, 51.0/255.0, 255.0/255.0)\nINFO_PANE_COLOR = formatColor(.4, .4, 0)\nSCORE_COLOR = formatColor(.9, .9, .9)\nPACMAN_OUTLINE_WIDTH = 2\nPACMAN_CAPTURE_OUTLINE_WIDTH = 4\nGHOST_COLORS = []\nGHOST_COLORS.append(formatColor(.9, 0, 0))  # Red\nGHOST_COLORS.append(formatColor(0, .3, .9))  # Blue",
+        "detail": "graphicsDisplay",
+        "documentation": {}
+    },
+    {
+        "label": "BACKGROUND_COLOR",
+        "kind": 5,
+        "importPath": "graphicsDisplay",
+        "description": "graphicsDisplay",
+        "peekOfCode": "BACKGROUND_COLOR = formatColor(0, 0, 0)\nWALL_COLOR = formatColor(0.0/255.0, 51.0/255.0, 255.0/255.0)\nINFO_PANE_COLOR = formatColor(.4, .4, 0)\nSCORE_COLOR = formatColor(.9, .9, .9)\nPACMAN_OUTLINE_WIDTH = 2\nPACMAN_CAPTURE_OUTLINE_WIDTH = 4\nGHOST_COLORS = []\nGHOST_COLORS.append(formatColor(.9, 0, 0))  # Red\nGHOST_COLORS.append(formatColor(0, .3, .9))  # Blue\nGHOST_COLORS.append(formatColor(.98, .41, .07))  # Orange",
+        "detail": "graphicsDisplay",
+        "documentation": {}
+    },
+    {
+        "label": "WALL_COLOR",
+        "kind": 5,
+        "importPath": "graphicsDisplay",
+        "description": "graphicsDisplay",
+        "peekOfCode": "WALL_COLOR = formatColor(0.0/255.0, 51.0/255.0, 255.0/255.0)\nINFO_PANE_COLOR = formatColor(.4, .4, 0)\nSCORE_COLOR = formatColor(.9, .9, .9)\nPACMAN_OUTLINE_WIDTH = 2\nPACMAN_CAPTURE_OUTLINE_WIDTH = 4\nGHOST_COLORS = []\nGHOST_COLORS.append(formatColor(.9, 0, 0))  # Red\nGHOST_COLORS.append(formatColor(0, .3, .9))  # Blue\nGHOST_COLORS.append(formatColor(.98, .41, .07))  # Orange\nGHOST_COLORS.append(formatColor(.1, .75, .7))  # Green",
+        "detail": "graphicsDisplay",
+        "documentation": {}
+    },
+    {
+        "label": "INFO_PANE_COLOR",
+        "kind": 5,
+        "importPath": "graphicsDisplay",
+        "description": "graphicsDisplay",
+        "peekOfCode": "INFO_PANE_COLOR = formatColor(.4, .4, 0)\nSCORE_COLOR = formatColor(.9, .9, .9)\nPACMAN_OUTLINE_WIDTH = 2\nPACMAN_CAPTURE_OUTLINE_WIDTH = 4\nGHOST_COLORS = []\nGHOST_COLORS.append(formatColor(.9, 0, 0))  # Red\nGHOST_COLORS.append(formatColor(0, .3, .9))  # Blue\nGHOST_COLORS.append(formatColor(.98, .41, .07))  # Orange\nGHOST_COLORS.append(formatColor(.1, .75, .7))  # Green\nGHOST_COLORS.append(formatColor(1.0, 0.6, 0.0))  # Yellow",
+        "detail": "graphicsDisplay",
+        "documentation": {}
+    },
+    {
+        "label": "SCORE_COLOR",
+        "kind": 5,
+        "importPath": "graphicsDisplay",
+        "description": "graphicsDisplay",
+        "peekOfCode": "SCORE_COLOR = formatColor(.9, .9, .9)\nPACMAN_OUTLINE_WIDTH = 2\nPACMAN_CAPTURE_OUTLINE_WIDTH = 4\nGHOST_COLORS = []\nGHOST_COLORS.append(formatColor(.9, 0, 0))  # Red\nGHOST_COLORS.append(formatColor(0, .3, .9))  # Blue\nGHOST_COLORS.append(formatColor(.98, .41, .07))  # Orange\nGHOST_COLORS.append(formatColor(.1, .75, .7))  # Green\nGHOST_COLORS.append(formatColor(1.0, 0.6, 0.0))  # Yellow\nGHOST_COLORS.append(formatColor(.4, 0.13, 0.91))  # Purple",
+        "detail": "graphicsDisplay",
+        "documentation": {}
+    },
+    {
+        "label": "PACMAN_OUTLINE_WIDTH",
+        "kind": 5,
+        "importPath": "graphicsDisplay",
+        "description": "graphicsDisplay",
+        "peekOfCode": "PACMAN_OUTLINE_WIDTH = 2\nPACMAN_CAPTURE_OUTLINE_WIDTH = 4\nGHOST_COLORS = []\nGHOST_COLORS.append(formatColor(.9, 0, 0))  # Red\nGHOST_COLORS.append(formatColor(0, .3, .9))  # Blue\nGHOST_COLORS.append(formatColor(.98, .41, .07))  # Orange\nGHOST_COLORS.append(formatColor(.1, .75, .7))  # Green\nGHOST_COLORS.append(formatColor(1.0, 0.6, 0.0))  # Yellow\nGHOST_COLORS.append(formatColor(.4, 0.13, 0.91))  # Purple\nTEAM_COLORS = GHOST_COLORS[:2]",
+        "detail": "graphicsDisplay",
+        "documentation": {}
+    },
+    {
+        "label": "PACMAN_CAPTURE_OUTLINE_WIDTH",
+        "kind": 5,
+        "importPath": "graphicsDisplay",
+        "description": "graphicsDisplay",
+        "peekOfCode": "PACMAN_CAPTURE_OUTLINE_WIDTH = 4\nGHOST_COLORS = []\nGHOST_COLORS.append(formatColor(.9, 0, 0))  # Red\nGHOST_COLORS.append(formatColor(0, .3, .9))  # Blue\nGHOST_COLORS.append(formatColor(.98, .41, .07))  # Orange\nGHOST_COLORS.append(formatColor(.1, .75, .7))  # Green\nGHOST_COLORS.append(formatColor(1.0, 0.6, 0.0))  # Yellow\nGHOST_COLORS.append(formatColor(.4, 0.13, 0.91))  # Purple\nTEAM_COLORS = GHOST_COLORS[:2]\nGHOST_SHAPE = [",
+        "detail": "graphicsDisplay",
+        "documentation": {}
+    },
+    {
+        "label": "GHOST_COLORS",
+        "kind": 5,
+        "importPath": "graphicsDisplay",
+        "description": "graphicsDisplay",
+        "peekOfCode": "GHOST_COLORS = []\nGHOST_COLORS.append(formatColor(.9, 0, 0))  # Red\nGHOST_COLORS.append(formatColor(0, .3, .9))  # Blue\nGHOST_COLORS.append(formatColor(.98, .41, .07))  # Orange\nGHOST_COLORS.append(formatColor(.1, .75, .7))  # Green\nGHOST_COLORS.append(formatColor(1.0, 0.6, 0.0))  # Yellow\nGHOST_COLORS.append(formatColor(.4, 0.13, 0.91))  # Purple\nTEAM_COLORS = GHOST_COLORS[:2]\nGHOST_SHAPE = [\n    (0,     0.3),",
+        "detail": "graphicsDisplay",
+        "documentation": {}
+    },
+    {
+        "label": "TEAM_COLORS",
+        "kind": 5,
+        "importPath": "graphicsDisplay",
+        "description": "graphicsDisplay",
+        "peekOfCode": "TEAM_COLORS = GHOST_COLORS[:2]\nGHOST_SHAPE = [\n    (0,     0.3),\n    (0.25,  0.75),\n    (0.5,   0.3),\n    (0.75,  0.75),\n    (0.75,  -0.5),\n    (0.5,   -0.75),\n    (-0.5,  -0.75),\n    (-0.75, -0.5),",
+        "detail": "graphicsDisplay",
+        "documentation": {}
+    },
+    {
+        "label": "GHOST_SHAPE",
+        "kind": 5,
+        "importPath": "graphicsDisplay",
+        "description": "graphicsDisplay",
+        "peekOfCode": "GHOST_SHAPE = [\n    (0,     0.3),\n    (0.25,  0.75),\n    (0.5,   0.3),\n    (0.75,  0.75),\n    (0.75,  -0.5),\n    (0.5,   -0.75),\n    (-0.5,  -0.75),\n    (-0.75, -0.5),\n    (-0.75, 0.75),",
+        "detail": "graphicsDisplay",
+        "documentation": {}
+    },
+    {
+        "label": "GHOST_SIZE",
+        "kind": 5,
+        "importPath": "graphicsDisplay",
+        "description": "graphicsDisplay",
+        "peekOfCode": "GHOST_SIZE = 0.65\nSCARED_COLOR = formatColor(1, 1, 1)\nGHOST_VEC_COLORS = list(map(colorToVector, GHOST_COLORS))\nPACMAN_COLOR = formatColor(255.0/255.0, 255.0/255.0, 61.0/255)\nPACMAN_SCALE = 0.5\n#pacman_speed = 0.25\n# Food\nFOOD_COLOR = formatColor(1, 1, 1)\nFOOD_SIZE = 0.1\n# Laser",
+        "detail": "graphicsDisplay",
+        "documentation": {}
+    },
+    {
+        "label": "SCARED_COLOR",
+        "kind": 5,
+        "importPath": "graphicsDisplay",
+        "description": "graphicsDisplay",
+        "peekOfCode": "SCARED_COLOR = formatColor(1, 1, 1)\nGHOST_VEC_COLORS = list(map(colorToVector, GHOST_COLORS))\nPACMAN_COLOR = formatColor(255.0/255.0, 255.0/255.0, 61.0/255)\nPACMAN_SCALE = 0.5\n#pacman_speed = 0.25\n# Food\nFOOD_COLOR = formatColor(1, 1, 1)\nFOOD_SIZE = 0.1\n# Laser\nLASER_COLOR = formatColor(1, 0, 0)",
+        "detail": "graphicsDisplay",
+        "documentation": {}
+    },
+    {
+        "label": "GHOST_VEC_COLORS",
+        "kind": 5,
+        "importPath": "graphicsDisplay",
+        "description": "graphicsDisplay",
+        "peekOfCode": "GHOST_VEC_COLORS = list(map(colorToVector, GHOST_COLORS))\nPACMAN_COLOR = formatColor(255.0/255.0, 255.0/255.0, 61.0/255)\nPACMAN_SCALE = 0.5\n#pacman_speed = 0.25\n# Food\nFOOD_COLOR = formatColor(1, 1, 1)\nFOOD_SIZE = 0.1\n# Laser\nLASER_COLOR = formatColor(1, 0, 0)\nLASER_SIZE = 0.02",
+        "detail": "graphicsDisplay",
+        "documentation": {}
+    },
+    {
+        "label": "PACMAN_COLOR",
+        "kind": 5,
+        "importPath": "graphicsDisplay",
+        "description": "graphicsDisplay",
+        "peekOfCode": "PACMAN_COLOR = formatColor(255.0/255.0, 255.0/255.0, 61.0/255)\nPACMAN_SCALE = 0.5\n#pacman_speed = 0.25\n# Food\nFOOD_COLOR = formatColor(1, 1, 1)\nFOOD_SIZE = 0.1\n# Laser\nLASER_COLOR = formatColor(1, 0, 0)\nLASER_SIZE = 0.02\n# Capsule graphics",
+        "detail": "graphicsDisplay",
+        "documentation": {}
+    },
+    {
+        "label": "PACMAN_SCALE",
+        "kind": 5,
+        "importPath": "graphicsDisplay",
+        "description": "graphicsDisplay",
+        "peekOfCode": "PACMAN_SCALE = 0.5\n#pacman_speed = 0.25\n# Food\nFOOD_COLOR = formatColor(1, 1, 1)\nFOOD_SIZE = 0.1\n# Laser\nLASER_COLOR = formatColor(1, 0, 0)\nLASER_SIZE = 0.02\n# Capsule graphics\nCAPSULE_COLOR = formatColor(1, 1, 1)",
+        "detail": "graphicsDisplay",
+        "documentation": {}
+    },
+    {
+        "label": "#pacman_speed",
+        "kind": 5,
+        "importPath": "graphicsDisplay",
+        "description": "graphicsDisplay",
+        "peekOfCode": "#pacman_speed = 0.25\n# Food\nFOOD_COLOR = formatColor(1, 1, 1)\nFOOD_SIZE = 0.1\n# Laser\nLASER_COLOR = formatColor(1, 0, 0)\nLASER_SIZE = 0.02\n# Capsule graphics\nCAPSULE_COLOR = formatColor(1, 1, 1)\nCAPSULE_SIZE = 0.25",
+        "detail": "graphicsDisplay",
+        "documentation": {}
+    },
+    {
+        "label": "FOOD_COLOR",
+        "kind": 5,
+        "importPath": "graphicsDisplay",
+        "description": "graphicsDisplay",
+        "peekOfCode": "FOOD_COLOR = formatColor(1, 1, 1)\nFOOD_SIZE = 0.1\n# Laser\nLASER_COLOR = formatColor(1, 0, 0)\nLASER_SIZE = 0.02\n# Capsule graphics\nCAPSULE_COLOR = formatColor(1, 1, 1)\nCAPSULE_SIZE = 0.25\n# Drawing walls\nWALL_RADIUS = 0.15",
+        "detail": "graphicsDisplay",
+        "documentation": {}
+    },
+    {
+        "label": "FOOD_SIZE",
+        "kind": 5,
+        "importPath": "graphicsDisplay",
+        "description": "graphicsDisplay",
+        "peekOfCode": "FOOD_SIZE = 0.1\n# Laser\nLASER_COLOR = formatColor(1, 0, 0)\nLASER_SIZE = 0.02\n# Capsule graphics\nCAPSULE_COLOR = formatColor(1, 1, 1)\nCAPSULE_SIZE = 0.25\n# Drawing walls\nWALL_RADIUS = 0.15\nclass InfoPane:",
+        "detail": "graphicsDisplay",
+        "documentation": {}
+    },
+    {
+        "label": "LASER_COLOR",
+        "kind": 5,
+        "importPath": "graphicsDisplay",
+        "description": "graphicsDisplay",
+        "peekOfCode": "LASER_COLOR = formatColor(1, 0, 0)\nLASER_SIZE = 0.02\n# Capsule graphics\nCAPSULE_COLOR = formatColor(1, 1, 1)\nCAPSULE_SIZE = 0.25\n# Drawing walls\nWALL_RADIUS = 0.15\nclass InfoPane:\n    def __init__(self, layout, gridSize):\n        self.gridSize = gridSize",
+        "detail": "graphicsDisplay",
+        "documentation": {}
+    },
+    {
+        "label": "LASER_SIZE",
+        "kind": 5,
+        "importPath": "graphicsDisplay",
+        "description": "graphicsDisplay",
+        "peekOfCode": "LASER_SIZE = 0.02\n# Capsule graphics\nCAPSULE_COLOR = formatColor(1, 1, 1)\nCAPSULE_SIZE = 0.25\n# Drawing walls\nWALL_RADIUS = 0.15\nclass InfoPane:\n    def __init__(self, layout, gridSize):\n        self.gridSize = gridSize\n        self.width = (layout.width) * gridSize",
+        "detail": "graphicsDisplay",
+        "documentation": {}
+    },
+    {
+        "label": "CAPSULE_COLOR",
+        "kind": 5,
+        "importPath": "graphicsDisplay",
+        "description": "graphicsDisplay",
+        "peekOfCode": "CAPSULE_COLOR = formatColor(1, 1, 1)\nCAPSULE_SIZE = 0.25\n# Drawing walls\nWALL_RADIUS = 0.15\nclass InfoPane:\n    def __init__(self, layout, gridSize):\n        self.gridSize = gridSize\n        self.width = (layout.width) * gridSize\n        self.base = (layout.height + 1) * gridSize\n        self.height = INFO_PANE_HEIGHT",
+        "detail": "graphicsDisplay",
+        "documentation": {}
+    },
+    {
+        "label": "CAPSULE_SIZE",
+        "kind": 5,
+        "importPath": "graphicsDisplay",
+        "description": "graphicsDisplay",
+        "peekOfCode": "CAPSULE_SIZE = 0.25\n# Drawing walls\nWALL_RADIUS = 0.15\nclass InfoPane:\n    def __init__(self, layout, gridSize):\n        self.gridSize = gridSize\n        self.width = (layout.width) * gridSize\n        self.base = (layout.height + 1) * gridSize\n        self.height = INFO_PANE_HEIGHT\n        self.fontSize = 24",
+        "detail": "graphicsDisplay",
+        "documentation": {}
+    },
+    {
+        "label": "WALL_RADIUS",
+        "kind": 5,
+        "importPath": "graphicsDisplay",
+        "description": "graphicsDisplay",
+        "peekOfCode": "WALL_RADIUS = 0.15\nclass InfoPane:\n    def __init__(self, layout, gridSize):\n        self.gridSize = gridSize\n        self.width = (layout.width) * gridSize\n        self.base = (layout.height + 1) * gridSize\n        self.height = INFO_PANE_HEIGHT\n        self.fontSize = 24\n        self.textColor = PACMAN_COLOR\n        self.drawPane()",
+        "detail": "graphicsDisplay",
+        "documentation": {}
+    },
+    {
+        "label": "SAVE_POSTSCRIPT",
+        "kind": 5,
+        "importPath": "graphicsDisplay",
+        "description": "graphicsDisplay",
+        "peekOfCode": "SAVE_POSTSCRIPT = False\nPOSTSCRIPT_OUTPUT_DIR = 'frames'\nFRAME_NUMBER = 0\nimport os\ndef saveFrame():\n    \"Saves the current graphical output as a postscript file\"\n    global SAVE_POSTSCRIPT, FRAME_NUMBER, POSTSCRIPT_OUTPUT_DIR\n    if not SAVE_POSTSCRIPT:\n        return\n    if not os.path.exists(POSTSCRIPT_OUTPUT_DIR):",
+        "detail": "graphicsDisplay",
+        "documentation": {}
+    },
+    {
+        "label": "POSTSCRIPT_OUTPUT_DIR",
+        "kind": 5,
+        "importPath": "graphicsDisplay",
+        "description": "graphicsDisplay",
+        "peekOfCode": "POSTSCRIPT_OUTPUT_DIR = 'frames'\nFRAME_NUMBER = 0\nimport os\ndef saveFrame():\n    \"Saves the current graphical output as a postscript file\"\n    global SAVE_POSTSCRIPT, FRAME_NUMBER, POSTSCRIPT_OUTPUT_DIR\n    if not SAVE_POSTSCRIPT:\n        return\n    if not os.path.exists(POSTSCRIPT_OUTPUT_DIR):\n        os.mkdir(POSTSCRIPT_OUTPUT_DIR)",
+        "detail": "graphicsDisplay",
+        "documentation": {}
+    },
+    {
+        "label": "FRAME_NUMBER",
+        "kind": 5,
+        "importPath": "graphicsDisplay",
+        "description": "graphicsDisplay",
+        "peekOfCode": "FRAME_NUMBER = 0\nimport os\ndef saveFrame():\n    \"Saves the current graphical output as a postscript file\"\n    global SAVE_POSTSCRIPT, FRAME_NUMBER, POSTSCRIPT_OUTPUT_DIR\n    if not SAVE_POSTSCRIPT:\n        return\n    if not os.path.exists(POSTSCRIPT_OUTPUT_DIR):\n        os.mkdir(POSTSCRIPT_OUTPUT_DIR)\n    name = os.path.join(POSTSCRIPT_OUTPUT_DIR, 'frame_%08d.ps' % FRAME_NUMBER)",
+        "detail": "graphicsDisplay",
+        "documentation": {}
+    },
+    {
+        "label": "formatColor",
+        "kind": 2,
+        "importPath": "graphicsUtils",
+        "description": "graphicsUtils",
+        "peekOfCode": "def formatColor(r, g, b):\n    return '#%02x%02x%02x' % (int(r * 255), int(g * 255), int(b * 255))\ndef colorToVector(color):\n    return [int(x, 16) / 256.0 for x in [color[1:3], color[3:5], color[5:7]]]\nif _Windows:\n    _canvas_tfonts = ['times new roman', 'lucida console']\nelse:\n    _canvas_tfonts = ['times', 'lucidasans-24']\n    pass  # XXX need defaults here\ndef sleep(secs):",
+        "detail": "graphicsUtils",
+        "documentation": {}
+    },
+    {
+        "label": "colorToVector",
+        "kind": 2,
+        "importPath": "graphicsUtils",
+        "description": "graphicsUtils",
+        "peekOfCode": "def colorToVector(color):\n    return [int(x, 16) / 256.0 for x in [color[1:3], color[3:5], color[5:7]]]\nif _Windows:\n    _canvas_tfonts = ['times new roman', 'lucida console']\nelse:\n    _canvas_tfonts = ['times', 'lucidasans-24']\n    pass  # XXX need defaults here\ndef sleep(secs):\n    global _root_window\n    if _root_window == None:",
+        "detail": "graphicsUtils",
+        "documentation": {}
+    },
+    {
+        "label": "sleep",
+        "kind": 2,
+        "importPath": "graphicsUtils",
+        "description": "graphicsUtils",
+        "peekOfCode": "def sleep(secs):\n    global _root_window\n    if _root_window == None:\n        time.sleep(secs)\n    else:\n        _root_window.update_idletasks()\n        _root_window.after(int(1000 * secs), _root_window.quit)\n        _root_window.mainloop()\ndef begin_graphics(width=640, height=480, color=formatColor(0, 0, 0), title=None):\n    global _root_window, _canvas, _canvas_x, _canvas_y, _canvas_xs, _canvas_ys, _bg_color",
+        "detail": "graphicsUtils",
+        "documentation": {}
+    },
+    {
+        "label": "begin_graphics",
+        "kind": 2,
+        "importPath": "graphicsUtils",
+        "description": "graphicsUtils",
+        "peekOfCode": "def begin_graphics(width=640, height=480, color=formatColor(0, 0, 0), title=None):\n    global _root_window, _canvas, _canvas_x, _canvas_y, _canvas_xs, _canvas_ys, _bg_color\n    # Check for duplicate call\n    if _root_window is not None:\n        # Lose the window.\n        _root_window.destroy()\n    # Save the canvas size parameters\n    _canvas_xs, _canvas_ys = width - 1, height - 1\n    _canvas_x, _canvas_y = 0, _canvas_ys\n    _bg_color = color",
+        "detail": "graphicsUtils",
+        "documentation": {}
+    },
+    {
+        "label": "wait_for_click",
+        "kind": 2,
+        "importPath": "graphicsUtils",
+        "description": "graphicsUtils",
+        "peekOfCode": "def wait_for_click():\n    while True:\n        global _leftclick_loc\n        global _rightclick_loc\n        global _ctrl_leftclick_loc\n        if _leftclick_loc != None:\n            val = _leftclick_loc\n            _leftclick_loc = None\n            return val, 'left'\n        if _rightclick_loc != None:",
+        "detail": "graphicsUtils",
+        "documentation": {}
+    },
+    {
+        "label": "draw_background",
+        "kind": 2,
+        "importPath": "graphicsUtils",
+        "description": "graphicsUtils",
+        "peekOfCode": "def draw_background():\n    corners = [(0, 0), (0, _canvas_ys),\n               (_canvas_xs, _canvas_ys), (_canvas_xs, 0)]\n    polygon(corners, _bg_color, fillColor=_bg_color,\n            filled=True, smoothed=False)\ndef _destroy_window(event=None):\n    sys.exit(0)\n#    global _root_window\n#    _root_window.destroy()\n#    _root_window = None",
+        "detail": "graphicsUtils",
+        "documentation": {}
+    },
+    {
+        "label": "end_graphics",
+        "kind": 2,
+        "importPath": "graphicsUtils",
+        "description": "graphicsUtils",
+        "peekOfCode": "def end_graphics():\n    global _root_window, _canvas, _mouse_enabled\n    try:\n        try:\n            sleep(1)\n            if _root_window != None:\n                _root_window.destroy()\n        except SystemExit as e:\n            print('Ending graphics raised an exception:', e)\n    finally:",
+        "detail": "graphicsUtils",
+        "documentation": {}
+    },
+    {
+        "label": "clear_screen",
+        "kind": 2,
+        "importPath": "graphicsUtils",
+        "description": "graphicsUtils",
+        "peekOfCode": "def clear_screen(background=None):\n    global _canvas_x, _canvas_y\n    _canvas.delete('all')\n    draw_background()\n    _canvas_x, _canvas_y = 0, _canvas_ys\ndef polygon(coords, outlineColor, fillColor=None, filled=1, smoothed=1, behind=0, width=1):\n    c = []\n    for coord in coords:\n        c.append(coord[0])\n        c.append(coord[1])",
+        "detail": "graphicsUtils",
+        "documentation": {}
+    },
+    {
+        "label": "polygon",
+        "kind": 2,
+        "importPath": "graphicsUtils",
+        "description": "graphicsUtils",
+        "peekOfCode": "def polygon(coords, outlineColor, fillColor=None, filled=1, smoothed=1, behind=0, width=1):\n    c = []\n    for coord in coords:\n        c.append(coord[0])\n        c.append(coord[1])\n    if fillColor == None:\n        fillColor = outlineColor\n    if filled == 0:\n        fillColor = \"\"\n    poly = _canvas.create_polygon(",
+        "detail": "graphicsUtils",
+        "documentation": {}
+    },
+    {
+        "label": "square",
+        "kind": 2,
+        "importPath": "graphicsUtils",
+        "description": "graphicsUtils",
+        "peekOfCode": "def square(pos, r, color, filled=1, behind=0):\n    x, y = pos\n    coords = [(x - r, y - r), (x + r, y - r), (x + r, y + r), (x - r, y + r)]\n    return polygon(coords, color, color, filled, 0, behind=behind)\ndef circle(pos, r, outlineColor, fillColor, endpoints=None, style='pieslice', width=2):\n    x, y = pos\n    x0, x1 = x - r - 1, x + r\n    y0, y1 = y - r - 1, y + r\n    if endpoints == None:\n        e = [0, 359]",
+        "detail": "graphicsUtils",
+        "documentation": {}
+    },
+    {
+        "label": "circle",
+        "kind": 2,
+        "importPath": "graphicsUtils",
+        "description": "graphicsUtils",
+        "peekOfCode": "def circle(pos, r, outlineColor, fillColor, endpoints=None, style='pieslice', width=2):\n    x, y = pos\n    x0, x1 = x - r - 1, x + r\n    y0, y1 = y - r - 1, y + r\n    if endpoints == None:\n        e = [0, 359]\n    else:\n        e = list(endpoints)\n    while e[0] > e[1]:\n        e[1] = e[1] + 360",
+        "detail": "graphicsUtils",
+        "documentation": {}
+    },
+    {
+        "label": "image",
+        "kind": 2,
+        "importPath": "graphicsUtils",
+        "description": "graphicsUtils",
+        "peekOfCode": "def image(pos, file=\"../../blueghost.gif\"):\n    x, y = pos\n    # img = PhotoImage(file=file)\n    return _canvas.create_image(x, y, image=tkinter.PhotoImage(file=file), anchor=tkinter.NW)\ndef refresh():\n    _canvas.update_idletasks()\ndef moveCircle(id, pos, r, endpoints=None):\n    global _canvas_x, _canvas_y\n    x, y = pos\n#    x0, x1 = x - r, x + r + 1",
+        "detail": "graphicsUtils",
+        "documentation": {}
+    },
+    {
+        "label": "refresh",
+        "kind": 2,
+        "importPath": "graphicsUtils",
+        "description": "graphicsUtils",
+        "peekOfCode": "def refresh():\n    _canvas.update_idletasks()\ndef moveCircle(id, pos, r, endpoints=None):\n    global _canvas_x, _canvas_y\n    x, y = pos\n#    x0, x1 = x - r, x + r + 1\n#    y0, y1 = y - r, y + r + 1\n    x0, x1 = x - r - 1, x + r\n    y0, y1 = y - r - 1, y + r\n    if endpoints == None:",
+        "detail": "graphicsUtils",
+        "documentation": {}
+    },
+    {
+        "label": "moveCircle",
+        "kind": 2,
+        "importPath": "graphicsUtils",
+        "description": "graphicsUtils",
+        "peekOfCode": "def moveCircle(id, pos, r, endpoints=None):\n    global _canvas_x, _canvas_y\n    x, y = pos\n#    x0, x1 = x - r, x + r + 1\n#    y0, y1 = y - r, y + r + 1\n    x0, x1 = x - r - 1, x + r\n    y0, y1 = y - r - 1, y + r\n    if endpoints == None:\n        e = [0, 359]\n    else:",
+        "detail": "graphicsUtils",
+        "documentation": {}
+    },
+    {
+        "label": "edit",
+        "kind": 2,
+        "importPath": "graphicsUtils",
+        "description": "graphicsUtils",
+        "peekOfCode": "def edit(id, *args):\n    _canvas.itemconfigure(id, **dict(args))\ndef text(pos, color, contents, font='Helvetica', size=12, style='normal', anchor=\"nw\"):\n    global _canvas_x, _canvas_y\n    x, y = pos\n    font = (font, str(size), style)\n    return _canvas.create_text(x, y, fill=color, text=contents, font=font, anchor=anchor)\ndef changeText(id, newText, font=None, size=12, style='normal'):\n    _canvas.itemconfigure(id, text=newText)\n    if font != None:",
+        "detail": "graphicsUtils",
+        "documentation": {}
+    },
+    {
+        "label": "text",
+        "kind": 2,
+        "importPath": "graphicsUtils",
+        "description": "graphicsUtils",
+        "peekOfCode": "def text(pos, color, contents, font='Helvetica', size=12, style='normal', anchor=\"nw\"):\n    global _canvas_x, _canvas_y\n    x, y = pos\n    font = (font, str(size), style)\n    return _canvas.create_text(x, y, fill=color, text=contents, font=font, anchor=anchor)\ndef changeText(id, newText, font=None, size=12, style='normal'):\n    _canvas.itemconfigure(id, text=newText)\n    if font != None:\n        _canvas.itemconfigure(id, font=(font, '-%d' % size, style))\ndef changeColor(id, newColor):",
+        "detail": "graphicsUtils",
+        "documentation": {}
+    },
+    {
+        "label": "changeText",
+        "kind": 2,
+        "importPath": "graphicsUtils",
+        "description": "graphicsUtils",
+        "peekOfCode": "def changeText(id, newText, font=None, size=12, style='normal'):\n    _canvas.itemconfigure(id, text=newText)\n    if font != None:\n        _canvas.itemconfigure(id, font=(font, '-%d' % size, style))\ndef changeColor(id, newColor):\n    _canvas.itemconfigure(id, fill=newColor)\ndef line(here, there, color=formatColor(0, 0, 0), width=2):\n    x0, y0 = here[0], here[1]\n    x1, y1 = there[0], there[1]\n    return _canvas.create_line(x0, y0, x1, y1, fill=color, width=width)",
+        "detail": "graphicsUtils",
+        "documentation": {}
+    },
+    {
+        "label": "changeColor",
+        "kind": 2,
+        "importPath": "graphicsUtils",
+        "description": "graphicsUtils",
+        "peekOfCode": "def changeColor(id, newColor):\n    _canvas.itemconfigure(id, fill=newColor)\ndef line(here, there, color=formatColor(0, 0, 0), width=2):\n    x0, y0 = here[0], here[1]\n    x1, y1 = there[0], there[1]\n    return _canvas.create_line(x0, y0, x1, y1, fill=color, width=width)\n##############################################################################\n### Keypress handling ########################################################\n##############################################################################\n# We bind to key-down and key-up events.",
+        "detail": "graphicsUtils",
+        "documentation": {}
+    },
+    {
+        "label": "line",
+        "kind": 2,
+        "importPath": "graphicsUtils",
+        "description": "graphicsUtils",
+        "peekOfCode": "def line(here, there, color=formatColor(0, 0, 0), width=2):\n    x0, y0 = here[0], here[1]\n    x1, y1 = there[0], there[1]\n    return _canvas.create_line(x0, y0, x1, y1, fill=color, width=width)\n##############################################################################\n### Keypress handling ########################################################\n##############################################################################\n# We bind to key-down and key-up events.\n_keysdown = {}\n_keyswaiting = {}",
+        "detail": "graphicsUtils",
+        "documentation": {}
+    },
+    {
+        "label": "remap_arrows",
+        "kind": 2,
+        "importPath": "graphicsUtils",
+        "description": "graphicsUtils",
+        "peekOfCode": "def remap_arrows(event):\n    # TURN ARROW PRESSES INTO LETTERS (SHOULD BE IN KEYBOARD AGENT)\n    if event.char in ['a', 's', 'd', 'w']:\n        return\n    if event.keycode in [37, 101]:  # LEFT ARROW (win / x)\n        event.char = 'a'\n    if event.keycode in [38, 99]:  # UP ARROW\n        event.char = 'w'\n    if event.keycode in [39, 102]:  # RIGHT ARROW\n        event.char = 'd'",
+        "detail": "graphicsUtils",
+        "documentation": {}
+    },
+    {
+        "label": "keys_pressed",
+        "kind": 2,
+        "importPath": "graphicsUtils",
+        "description": "graphicsUtils",
+        "peekOfCode": "def keys_pressed(d_o_e=lambda arg: _root_window.dooneevent(arg),\n                 d_w=tkinter._tkinter.DONT_WAIT):\n    d_o_e(d_w)\n    if _got_release:\n        d_o_e(d_w)\n    return list(_keysdown.keys())\ndef keys_waiting():\n    global _keyswaiting\n    keys = list(_keyswaiting.keys())\n    _keyswaiting = {}",
+        "detail": "graphicsUtils",
+        "documentation": {}
+    },
+    {
+        "label": "keys_waiting",
+        "kind": 2,
+        "importPath": "graphicsUtils",
+        "description": "graphicsUtils",
+        "peekOfCode": "def keys_waiting():\n    global _keyswaiting\n    keys = list(_keyswaiting.keys())\n    _keyswaiting = {}\n    return keys\n# Block for a list of keys...\ndef wait_for_keys():\n    keys = []\n    while keys == []:\n        keys = keys_pressed()",
+        "detail": "graphicsUtils",
+        "documentation": {}
+    },
+    {
+        "label": "wait_for_keys",
+        "kind": 2,
+        "importPath": "graphicsUtils",
+        "description": "graphicsUtils",
+        "peekOfCode": "def wait_for_keys():\n    keys = []\n    while keys == []:\n        keys = keys_pressed()\n        sleep(0.05)\n    return keys\ndef remove_from_screen(x,\n                       d_o_e=lambda arg: _root_window.dooneevent(arg),\n                       d_w=tkinter._tkinter.DONT_WAIT):\n    _canvas.delete(x)",
+        "detail": "graphicsUtils",
+        "documentation": {}
+    },
+    {
+        "label": "remove_from_screen",
+        "kind": 2,
+        "importPath": "graphicsUtils",
+        "description": "graphicsUtils",
+        "peekOfCode": "def remove_from_screen(x,\n                       d_o_e=lambda arg: _root_window.dooneevent(arg),\n                       d_w=tkinter._tkinter.DONT_WAIT):\n    _canvas.delete(x)\n    d_o_e(d_w)\ndef _adjust_coords(coord_list, x, y):\n    for i in range(0, len(coord_list), 2):\n        coord_list[i] = coord_list[i] + x\n        coord_list[i + 1] = coord_list[i + 1] + y\n    return coord_list",
+        "detail": "graphicsUtils",
+        "documentation": {}
+    },
+    {
+        "label": "move_to",
+        "kind": 2,
+        "importPath": "graphicsUtils",
+        "description": "graphicsUtils",
+        "peekOfCode": "def move_to(object, x, y=None,\n            d_o_e=lambda arg: _root_window.dooneevent(arg),\n            d_w=tkinter._tkinter.DONT_WAIT):\n    if y is None:\n        try:\n            x, y = x\n        except:\n            raise Exception('incomprehensible coordinates')\n    horiz = True\n    newCoords = []",
+        "detail": "graphicsUtils",
+        "documentation": {}
+    },
+    {
+        "label": "move_by",
+        "kind": 2,
+        "importPath": "graphicsUtils",
+        "description": "graphicsUtils",
+        "peekOfCode": "def move_by(object, x, y=None,\n            d_o_e=lambda arg: _root_window.dooneevent(arg),\n            d_w=tkinter._tkinter.DONT_WAIT, lift=False):\n    if y is None:\n        try:\n            x, y = x\n        except:\n            raise Exception('incomprehensible coordinates')\n    horiz = True\n    newCoords = []",
+        "detail": "graphicsUtils",
+        "documentation": {}
+    },
+    {
+        "label": "writePostscript",
+        "kind": 2,
+        "importPath": "graphicsUtils",
+        "description": "graphicsUtils",
+        "peekOfCode": "def writePostscript(filename):\n    \"Writes the current canvas to a postscript file.\"\n    psfile = file(filename, 'w')\n    psfile.write(_canvas.postscript(pageanchor='sw',\n                                    y='0.c',\n                                    x='0.c'))\n    psfile.close()\nghost_shape = [\n    (0, - 0.5),\n    (0.25, - 0.75),",
+        "detail": "graphicsUtils",
+        "documentation": {}
+    },
+    {
+        "label": "_Windows",
+        "kind": 5,
+        "importPath": "graphicsUtils",
+        "description": "graphicsUtils",
+        "peekOfCode": "_Windows = sys.platform == 'win32'  # True if on Win95/98/NT\n_root_window = None      # The root window for graphics output\n_canvas = None      # The canvas which holds graphics\n_canvas_xs = None      # Size of canvas object\n_canvas_ys = None\n_canvas_x = None      # Current position on canvas\n_canvas_y = None\n_canvas_col = None      # Current colour (set to black below)\n_canvas_tsize = 12\n_canvas_tserifs = 0",
+        "detail": "graphicsUtils",
+        "documentation": {}
+    },
+    {
+        "label": "_root_window",
+        "kind": 5,
+        "importPath": "graphicsUtils",
+        "description": "graphicsUtils",
+        "peekOfCode": "_root_window = None      # The root window for graphics output\n_canvas = None      # The canvas which holds graphics\n_canvas_xs = None      # Size of canvas object\n_canvas_ys = None\n_canvas_x = None      # Current position on canvas\n_canvas_y = None\n_canvas_col = None      # Current colour (set to black below)\n_canvas_tsize = 12\n_canvas_tserifs = 0\ndef formatColor(r, g, b):",
+        "detail": "graphicsUtils",
+        "documentation": {}
+    },
+    {
+        "label": "_canvas",
+        "kind": 5,
+        "importPath": "graphicsUtils",
+        "description": "graphicsUtils",
+        "peekOfCode": "_canvas = None      # The canvas which holds graphics\n_canvas_xs = None      # Size of canvas object\n_canvas_ys = None\n_canvas_x = None      # Current position on canvas\n_canvas_y = None\n_canvas_col = None      # Current colour (set to black below)\n_canvas_tsize = 12\n_canvas_tserifs = 0\ndef formatColor(r, g, b):\n    return '#%02x%02x%02x' % (int(r * 255), int(g * 255), int(b * 255))",
+        "detail": "graphicsUtils",
+        "documentation": {}
+    },
+    {
+        "label": "_canvas_xs",
+        "kind": 5,
+        "importPath": "graphicsUtils",
+        "description": "graphicsUtils",
+        "peekOfCode": "_canvas_xs = None      # Size of canvas object\n_canvas_ys = None\n_canvas_x = None      # Current position on canvas\n_canvas_y = None\n_canvas_col = None      # Current colour (set to black below)\n_canvas_tsize = 12\n_canvas_tserifs = 0\ndef formatColor(r, g, b):\n    return '#%02x%02x%02x' % (int(r * 255), int(g * 255), int(b * 255))\ndef colorToVector(color):",
+        "detail": "graphicsUtils",
+        "documentation": {}
+    },
+    {
+        "label": "_canvas_ys",
+        "kind": 5,
+        "importPath": "graphicsUtils",
+        "description": "graphicsUtils",
+        "peekOfCode": "_canvas_ys = None\n_canvas_x = None      # Current position on canvas\n_canvas_y = None\n_canvas_col = None      # Current colour (set to black below)\n_canvas_tsize = 12\n_canvas_tserifs = 0\ndef formatColor(r, g, b):\n    return '#%02x%02x%02x' % (int(r * 255), int(g * 255), int(b * 255))\ndef colorToVector(color):\n    return [int(x, 16) / 256.0 for x in [color[1:3], color[3:5], color[5:7]]]",
+        "detail": "graphicsUtils",
+        "documentation": {}
+    },
+    {
+        "label": "_canvas_x",
+        "kind": 5,
+        "importPath": "graphicsUtils",
+        "description": "graphicsUtils",
+        "peekOfCode": "_canvas_x = None      # Current position on canvas\n_canvas_y = None\n_canvas_col = None      # Current colour (set to black below)\n_canvas_tsize = 12\n_canvas_tserifs = 0\ndef formatColor(r, g, b):\n    return '#%02x%02x%02x' % (int(r * 255), int(g * 255), int(b * 255))\ndef colorToVector(color):\n    return [int(x, 16) / 256.0 for x in [color[1:3], color[3:5], color[5:7]]]\nif _Windows:",
+        "detail": "graphicsUtils",
+        "documentation": {}
+    },
+    {
+        "label": "_canvas_y",
+        "kind": 5,
+        "importPath": "graphicsUtils",
+        "description": "graphicsUtils",
+        "peekOfCode": "_canvas_y = None\n_canvas_col = None      # Current colour (set to black below)\n_canvas_tsize = 12\n_canvas_tserifs = 0\ndef formatColor(r, g, b):\n    return '#%02x%02x%02x' % (int(r * 255), int(g * 255), int(b * 255))\ndef colorToVector(color):\n    return [int(x, 16) / 256.0 for x in [color[1:3], color[3:5], color[5:7]]]\nif _Windows:\n    _canvas_tfonts = ['times new roman', 'lucida console']",
+        "detail": "graphicsUtils",
+        "documentation": {}
+    },
+    {
+        "label": "_canvas_col",
+        "kind": 5,
+        "importPath": "graphicsUtils",
+        "description": "graphicsUtils",
+        "peekOfCode": "_canvas_col = None      # Current colour (set to black below)\n_canvas_tsize = 12\n_canvas_tserifs = 0\ndef formatColor(r, g, b):\n    return '#%02x%02x%02x' % (int(r * 255), int(g * 255), int(b * 255))\ndef colorToVector(color):\n    return [int(x, 16) / 256.0 for x in [color[1:3], color[3:5], color[5:7]]]\nif _Windows:\n    _canvas_tfonts = ['times new roman', 'lucida console']\nelse:",
+        "detail": "graphicsUtils",
+        "documentation": {}
+    },
+    {
+        "label": "_canvas_tsize",
+        "kind": 5,
+        "importPath": "graphicsUtils",
+        "description": "graphicsUtils",
+        "peekOfCode": "_canvas_tsize = 12\n_canvas_tserifs = 0\ndef formatColor(r, g, b):\n    return '#%02x%02x%02x' % (int(r * 255), int(g * 255), int(b * 255))\ndef colorToVector(color):\n    return [int(x, 16) / 256.0 for x in [color[1:3], color[3:5], color[5:7]]]\nif _Windows:\n    _canvas_tfonts = ['times new roman', 'lucida console']\nelse:\n    _canvas_tfonts = ['times', 'lucidasans-24']",
+        "detail": "graphicsUtils",
+        "documentation": {}
+    },
+    {
+        "label": "_canvas_tserifs",
+        "kind": 5,
+        "importPath": "graphicsUtils",
+        "description": "graphicsUtils",
+        "peekOfCode": "_canvas_tserifs = 0\ndef formatColor(r, g, b):\n    return '#%02x%02x%02x' % (int(r * 255), int(g * 255), int(b * 255))\ndef colorToVector(color):\n    return [int(x, 16) / 256.0 for x in [color[1:3], color[3:5], color[5:7]]]\nif _Windows:\n    _canvas_tfonts = ['times new roman', 'lucida console']\nelse:\n    _canvas_tfonts = ['times', 'lucidasans-24']\n    pass  # XXX need defaults here",
+        "detail": "graphicsUtils",
+        "documentation": {}
+    },
+    {
+        "label": "_leftclick_loc",
+        "kind": 5,
+        "importPath": "graphicsUtils",
+        "description": "graphicsUtils",
+        "peekOfCode": "_leftclick_loc = None\n_rightclick_loc = None\n_ctrl_leftclick_loc = None\ndef _leftclick(event):\n    global _leftclick_loc\n    _leftclick_loc = (event.x, event.y)\ndef _rightclick(event):\n    global _rightclick_loc\n    _rightclick_loc = (event.x, event.y)\ndef _ctrl_leftclick(event):",
+        "detail": "graphicsUtils",
+        "documentation": {}
+    },
+    {
+        "label": "_rightclick_loc",
+        "kind": 5,
+        "importPath": "graphicsUtils",
+        "description": "graphicsUtils",
+        "peekOfCode": "_rightclick_loc = None\n_ctrl_leftclick_loc = None\ndef _leftclick(event):\n    global _leftclick_loc\n    _leftclick_loc = (event.x, event.y)\ndef _rightclick(event):\n    global _rightclick_loc\n    _rightclick_loc = (event.x, event.y)\ndef _ctrl_leftclick(event):\n    global _ctrl_leftclick_loc",
+        "detail": "graphicsUtils",
+        "documentation": {}
+    },
+    {
+        "label": "_ctrl_leftclick_loc",
+        "kind": 5,
+        "importPath": "graphicsUtils",
+        "description": "graphicsUtils",
+        "peekOfCode": "_ctrl_leftclick_loc = None\ndef _leftclick(event):\n    global _leftclick_loc\n    _leftclick_loc = (event.x, event.y)\ndef _rightclick(event):\n    global _rightclick_loc\n    _rightclick_loc = (event.x, event.y)\ndef _ctrl_leftclick(event):\n    global _ctrl_leftclick_loc\n    _ctrl_leftclick_loc = (event.x, event.y)",
+        "detail": "graphicsUtils",
+        "documentation": {}
+    },
+    {
+        "label": "_keysdown",
+        "kind": 5,
+        "importPath": "graphicsUtils",
+        "description": "graphicsUtils",
+        "peekOfCode": "_keysdown = {}\n_keyswaiting = {}\n# This holds an unprocessed key release.  We delay key releases by up to\n# one call to keys_pressed() to get round a problem with auto repeat.\n_got_release = None\ndef _keypress(event):\n    global _got_release\n    # remap_arrows(event)\n    _keysdown[event.keysym] = 1\n    _keyswaiting[event.keysym] = 1",
+        "detail": "graphicsUtils",
+        "documentation": {}
+    },
+    {
+        "label": "_keyswaiting",
+        "kind": 5,
+        "importPath": "graphicsUtils",
+        "description": "graphicsUtils",
+        "peekOfCode": "_keyswaiting = {}\n# This holds an unprocessed key release.  We delay key releases by up to\n# one call to keys_pressed() to get round a problem with auto repeat.\n_got_release = None\ndef _keypress(event):\n    global _got_release\n    # remap_arrows(event)\n    _keysdown[event.keysym] = 1\n    _keyswaiting[event.keysym] = 1\n#    print event.char, event.keycode",
+        "detail": "graphicsUtils",
+        "documentation": {}
+    },
+    {
+        "label": "_got_release",
+        "kind": 5,
+        "importPath": "graphicsUtils",
+        "description": "graphicsUtils",
+        "peekOfCode": "_got_release = None\ndef _keypress(event):\n    global _got_release\n    # remap_arrows(event)\n    _keysdown[event.keysym] = 1\n    _keyswaiting[event.keysym] = 1\n#    print event.char, event.keycode\n    _got_release = None\ndef _keyrelease(event):\n    global _got_release",
+        "detail": "graphicsUtils",
+        "documentation": {}
+    },
+    {
+        "label": "ghost_shape",
+        "kind": 5,
+        "importPath": "graphicsUtils",
+        "description": "graphicsUtils",
+        "peekOfCode": "ghost_shape = [\n    (0, - 0.5),\n    (0.25, - 0.75),\n    (0.5, - 0.5),\n    (0.75, - 0.75),\n    (0.75, 0.5),\n    (0.5, 0.75),\n    (- 0.5, 0.75),\n    (- 0.75, 0.5),\n    (- 0.75, - 0.75),",
+        "detail": "graphicsUtils",
+        "documentation": {}
+    },
+    {
+        "label": "KeyboardAgent",
+        "kind": 6,
+        "importPath": "keyboardAgents",
+        "description": "keyboardAgents",
+        "peekOfCode": "class KeyboardAgent(Agent):\n    \"\"\"\n    An agent controlled by the keyboard.\n    \"\"\"\n    # NOTE: Arrow keys also work.\n    WEST_KEY = 'a'\n    EAST_KEY = 'd'\n    NORTH_KEY = 'w'\n    SOUTH_KEY = 's'\n    STOP_KEY = 'q'",
+        "detail": "keyboardAgents",
+        "documentation": {}
+    },
+    {
+        "label": "KeyboardAgent2",
+        "kind": 6,
+        "importPath": "keyboardAgents",
+        "description": "keyboardAgents",
+        "peekOfCode": "class KeyboardAgent2(KeyboardAgent):\n    \"\"\"\n    A second agent controlled by the keyboard.\n    \"\"\"\n    # NOTE: Arrow keys also work.\n    WEST_KEY = 'j'\n    EAST_KEY = \"l\"\n    NORTH_KEY = 'i'\n    SOUTH_KEY = 'k'\n    STOP_KEY = 'u'",
+        "detail": "keyboardAgents",
+        "documentation": {}
+    },
+    {
+        "label": "Layout",
+        "kind": 6,
+        "importPath": "layout",
+        "description": "layout",
+        "peekOfCode": "class Layout:\n    \"\"\"\n    A Layout manages the static information about the game board.\n    \"\"\"\n    def __init__(self, layoutText):\n        self.width = len(layoutText[0])\n        self.height = len(layoutText)\n        self.walls = Grid(self.width, self.height, False)\n        self.food = Grid(self.width, self.height, False)\n        self.capsules = []",
+        "detail": "layout",
+        "documentation": {}
+    },
+    {
+        "label": "getLayout",
+        "kind": 2,
+        "importPath": "layout",
+        "description": "layout",
+        "peekOfCode": "def getLayout(name, back=2):\n    if name.endswith('.lay'):\n        layout = tryToLoad('layouts/' + name)\n        if layout == None:\n            layout = tryToLoad(name)\n    else:\n        layout = tryToLoad('layouts/' + name + '.lay')\n        if layout == None:\n            layout = tryToLoad(name + '.lay')\n    if layout == None and back >= 0:",
+        "detail": "layout",
+        "documentation": {}
+    },
+    {
+        "label": "tryToLoad",
+        "kind": 2,
+        "importPath": "layout",
+        "description": "layout",
+        "peekOfCode": "def tryToLoad(fullname):\n    if(not os.path.exists(fullname)):\n        return None\n    f = open(fullname)\n    try:\n        return Layout([line.strip() for line in f])\n    finally:\n        f.close()",
+        "detail": "layout",
+        "documentation": {}
+    },
+    {
+        "label": "VISIBILITY_MATRIX_CACHE",
+        "kind": 5,
+        "importPath": "layout",
+        "description": "layout",
+        "peekOfCode": "VISIBILITY_MATRIX_CACHE = {}\nclass Layout:\n    \"\"\"\n    A Layout manages the static information about the game board.\n    \"\"\"\n    def __init__(self, layoutText):\n        self.width = len(layoutText[0])\n        self.height = len(layoutText)\n        self.walls = Grid(self.width, self.height, False)\n        self.food = Grid(self.width, self.height, False)",
+        "detail": "layout",
+        "documentation": {}
+    },
+    {
+        "label": "ReflexAgent",
+        "kind": 6,
+        "importPath": "multiAgents",
+        "description": "multiAgents",
+        "peekOfCode": "class ReflexAgent(Agent):\n    \"\"\"\n    A reflex agent chooses an action at each choice point by examining\n    its alternatives via a state evaluation function.\n    The code below is provided as a guide.  You are welcome to change\n    it in any way you see fit, so long as you don't touch our method\n    headers.\n    \"\"\"\n    def getAction(self, gameState: GameState):\n        \"\"\"",
+        "detail": "multiAgents",
+        "documentation": {}
+    },
+    {
+        "label": "MultiAgentSearchAgent",
+        "kind": 6,
+        "importPath": "multiAgents",
+        "description": "multiAgents",
+        "peekOfCode": "class MultiAgentSearchAgent(Agent):\n    \"\"\"\n    This class provides some common elements to all of your\n    multi-agent searchers.  Any methods defined here will be available\n    to the MinimaxPacmanAgent, AlphaBetaPacmanAgent & ExpectimaxPacmanAgent.\n    You *do not* need to make any changes here, but you can if you want to\n    add functionality to all your adversarial search agents.  Please do not\n    remove anything, however.\n    Note: this is an abstract class: one that should not be instantiated.  It's\n    only partially specified, and designed to be extended.  Agent (game.py)",
+        "detail": "multiAgents",
+        "documentation": {}
+    },
+    {
+        "label": "MinimaxAgent",
+        "kind": 6,
+        "importPath": "multiAgents",
+        "description": "multiAgents",
+        "peekOfCode": "class MinimaxAgent(MultiAgentSearchAgent):\n    \"\"\"\n    Your minimax agent (question 2)\n    \"\"\"\n    def getAction(self, gameState: GameState):\n        \"\"\"\n        Returns the minimax action from the current gameState using self.depth\n        and self.evaluationFunction.\n        Here are some method calls that might be useful when implementing minimax.\n        gameState.getLegalActions(agentIndex):",
+        "detail": "multiAgents",
+        "documentation": {}
+    },
+    {
+        "label": "AlphaBetaAgent",
+        "kind": 6,
+        "importPath": "multiAgents",
+        "description": "multiAgents",
+        "peekOfCode": "class AlphaBetaAgent(MultiAgentSearchAgent):\n    \"\"\"\n    Your minimax agent with alpha-beta pruning (question 3)\n    \"\"\"\n    def getAction(self, gameState: GameState):\n        \"\"\"\n        Returns the minimax action using self.depth and self.evaluationFunction\n        \"\"\"\n        \"*** YOUR CODE HERE ***\"\n        #initialize vars - negative infinity as we want to maximize, and 0 as best move",
+        "detail": "multiAgents",
+        "documentation": {}
+    },
+    {
+        "label": "ExpectimaxAgent",
+        "kind": 6,
+        "importPath": "multiAgents",
+        "description": "multiAgents",
+        "peekOfCode": "class ExpectimaxAgent(MultiAgentSearchAgent):\n    \"\"\"\n      Your expectimax agent (question 4)\n    \"\"\"\n    def getAction(self, gameState: GameState):\n        \"\"\"\n        Returns the expectimax action using self.depth and self.evaluationFunction\n        All ghosts should be modeled as choosing uniformly at random from their\n        legal moves.\n        \"\"\"",
+        "detail": "multiAgents",
+        "documentation": {}
+    },
+    {
+        "label": "scoreEvaluationFunction",
+        "kind": 2,
+        "importPath": "multiAgents",
+        "description": "multiAgents",
+        "peekOfCode": "def scoreEvaluationFunction(currentGameState: GameState):\n    \"\"\"\n    This default evaluation function just returns the score of the state.\n    The score is the same one displayed in the Pacman GUI.\n    This evaluation function is meant for use with adversarial search agents\n    (not reflex agents).\n    \"\"\"\n    return currentGameState.getScore()\nclass MultiAgentSearchAgent(Agent):\n    \"\"\"",
+        "detail": "multiAgents",
+        "documentation": {}
+    },
+    {
+        "label": "betterEvaluationFunction",
+        "kind": 2,
+        "importPath": "multiAgents",
+        "description": "multiAgents",
+        "peekOfCode": "def betterEvaluationFunction(currentGameState: GameState):\n    \"\"\"\n    Your extreme ghost-hunting, pellet-nabbing, food-gobbling, unstoppable\n    evaluation function (question 5).\n    DESCRIPTION: <write something here so we know what you did>\n    \"\"\"\n    \"*** YOUR CODE HERE ***\"\n    util.raiseNotDefined()\n# Abbreviation\nbetter = betterEvaluationFunction",
+        "detail": "multiAgents",
+        "documentation": {}
+    },
+    {
+        "label": "better",
+        "kind": 5,
+        "importPath": "multiAgents",
+        "description": "multiAgents",
+        "peekOfCode": "better = betterEvaluationFunction",
+        "detail": "multiAgents",
+        "documentation": {}
+    },
+    {
+        "label": "MultiagentTreeState",
+        "kind": 6,
+        "importPath": "multiagentTestClasses",
+        "description": "multiagentTestClasses",
+        "peekOfCode": "class MultiagentTreeState(object):\n    def __init__(self, problem, state):\n        self.problem = problem\n        self.state = state\n    def generateSuccessor(self, agentIndex, action):\n        if VERBOSE:\n            print(\"generateSuccessor(%s, %s, %s) -> %s\" % (self.state, agentIndex,\n                                                           action, self.problem.stateToSuccessorMap[self.state][action]))\n        successor = self.problem.stateToSuccessorMap[self.state][action]\n        self.problem.generatedStates.add(successor)",
+        "detail": "multiagentTestClasses",
+        "documentation": {}
+    },
+    {
+        "label": "MultiagentTreeProblem",
+        "kind": 6,
+        "importPath": "multiagentTestClasses",
+        "description": "multiagentTestClasses",
+        "peekOfCode": "class MultiagentTreeProblem(object):\n    def __init__(self, numAgents, startState, winStates, loseStates, successors, evaluation):\n        self.startState = MultiagentTreeState(self, startState)\n        self.numAgents = numAgents\n        self.winStates = winStates\n        self.loseStates = loseStates\n        self.evaluation = evaluation\n        self.successors = successors\n        self.reset()\n        self.stateToSuccessorMap = defaultdict(dict)",
+        "detail": "multiagentTestClasses",
+        "documentation": {}
+    },
+    {
+        "label": "GradingAgent",
+        "kind": 6,
+        "importPath": "multiagentTestClasses",
+        "description": "multiagentTestClasses",
+        "peekOfCode": "class GradingAgent(Agent):\n    def __init__(self, seed, studentAgent, optimalActions, altDepthActions, partialPlyBugActions):\n        # save student agent and actions of refernce agents\n        self.studentAgent = studentAgent\n        self.optimalActions = optimalActions\n        self.altDepthActions = altDepthActions\n        self.partialPlyBugActions = partialPlyBugActions\n        # create fields for storing specific wrong actions\n        self.suboptimalMoves = []\n        self.wrongStatesExplored = -1",
+        "detail": "multiagentTestClasses",
+        "documentation": {}
+    },
+    {
+        "label": "PolyAgent",
+        "kind": 6,
+        "importPath": "multiagentTestClasses",
+        "description": "multiagentTestClasses",
+        "peekOfCode": "class PolyAgent(Agent):\n    def __init__(self, seed, multiAgents, ourPacOptions, depth):\n        # prepare our pacman agents\n        solutionAgents, alternativeDepthAgents, partialPlyBugAgents = self.construct_our_pacs(\n            multiAgents, ourPacOptions)\n        for p in solutionAgents:\n            p.depth = depth\n        for p in partialPlyBugAgents:\n            p.depth = depth\n        for p in alternativeDepthAgents[:2]:",
+        "detail": "multiagentTestClasses",
+        "documentation": {}
+    },
+    {
+        "label": "PacmanGameTreeTest",
+        "kind": 6,
+        "importPath": "multiagentTestClasses",
+        "description": "multiagentTestClasses",
+        "peekOfCode": "class PacmanGameTreeTest(testClasses.TestCase):\n    def __init__(self, question, testDict):\n        super(PacmanGameTreeTest, self).__init__(question, testDict)\n        self.seed = int(self.testDict['seed'])\n        self.alg = self.testDict['alg']\n        self.layout_text = self.testDict['layout']\n        self.layout_name = self.testDict['layoutName']\n        self.depth = int(self.testDict['depth'])\n        self.max_points = int(self.testDict['max_points'])\n    def execute(self, grades, moduleDict, solutionDict):",
+        "detail": "multiagentTestClasses",
+        "documentation": {}
+    },
+    {
+        "label": "GraphGameTreeTest",
+        "kind": 6,
+        "importPath": "multiagentTestClasses",
+        "description": "multiagentTestClasses",
+        "peekOfCode": "class GraphGameTreeTest(testClasses.TestCase):\n    def __init__(self, question, testDict):\n        super(GraphGameTreeTest, self).__init__(question, testDict)\n        self.problem = parseTreeProblem(testDict)\n        self.alg = self.testDict['alg']\n        self.diagram = self.testDict['diagram'].split('\\n')\n        self.depth = int(self.testDict['depth'])\n    def solveProblem(self, multiAgents):\n        self.problem.reset()\n        studentAgent = getattr(multiAgents, self.alg)(depth=self.depth)",
+        "detail": "multiagentTestClasses",
+        "documentation": {}
+    },
+    {
+        "label": "EvalAgentTest",
+        "kind": 6,
+        "importPath": "multiagentTestClasses",
+        "description": "multiagentTestClasses",
+        "peekOfCode": "class EvalAgentTest(testClasses.TestCase):\n    def __init__(self, question, testDict):\n        super(EvalAgentTest, self).__init__(question, testDict)\n        self.layoutName = testDict['layoutName']\n        self.agentName = testDict['agentName']\n        self.ghosts = eval(testDict['ghosts'])\n        self.maxTime = int(testDict['maxTime'])\n        self.seed = int(testDict['randomSeed'])\n        self.numGames = int(testDict['numGames'])\n        self.scoreMinimum = int(",
+        "detail": "multiagentTestClasses",
+        "documentation": {}
+    },
+    {
+        "label": "parseTreeProblem",
+        "kind": 2,
+        "importPath": "multiagentTestClasses",
+        "description": "multiagentTestClasses",
+        "peekOfCode": "def parseTreeProblem(testDict):\n    numAgents = int(testDict[\"num_agents\"])\n    startState = testDict[\"start_state\"]\n    winStates = set(testDict[\"win_states\"].split(\" \"))\n    loseStates = set(testDict[\"lose_states\"].split(\" \"))\n    successors = []\n    evaluation = {}\n    for line in testDict[\"evaluation\"].split('\\n'):\n        tokens = line.split()\n        if len(tokens) == 2:",
+        "detail": "multiagentTestClasses",
+        "documentation": {}
+    },
+    {
+        "label": "run",
+        "kind": 2,
+        "importPath": "multiagentTestClasses",
+        "description": "multiagentTestClasses",
+        "peekOfCode": "def run(lay, layName, pac, ghosts, disp, nGames=1, name='games'):\n    \"\"\"\n    Runs a few games and outputs their statistics.\n    \"\"\"\n    starttime = time.time()\n    print('*** Running %s on' % name, layName, '%d time(s).' % nGames)\n    games = pacman.runGames(lay, pac, ghosts, disp,\n                            nGames, False, catchExceptions=True, timeout=120)\n    print('*** Finished running %s on' % name, layName,\n          'after %d seconds.' % (time.time() - starttime))",
+        "detail": "multiagentTestClasses",
+        "documentation": {}
+    },
+    {
+        "label": "pp",
+        "kind": 5,
+        "importPath": "multiagentTestClasses",
+        "description": "multiagentTestClasses",
+        "peekOfCode": "pp = PrettyPrinter()\nfrom game import Agent\nfrom pacman import GameState\nfrom ghostAgents import RandomGhost, DirectionalGhost\nimport random\nimport math\nimport traceback\nimport sys\nimport os\nimport layout",
+        "detail": "multiagentTestClasses",
+        "documentation": {}
+    },
+    {
+        "label": "VERBOSE",
+        "kind": 5,
+        "importPath": "multiagentTestClasses",
+        "description": "multiagentTestClasses",
+        "peekOfCode": "VERBOSE = False\nclass MultiagentTreeState(object):\n    def __init__(self, problem, state):\n        self.problem = problem\n        self.state = state\n    def generateSuccessor(self, agentIndex, action):\n        if VERBOSE:\n            print(\"generateSuccessor(%s, %s, %s) -> %s\" % (self.state, agentIndex,\n                                                           action, self.problem.stateToSuccessorMap[self.state][action]))\n        successor = self.problem.stateToSuccessorMap[self.state][action]",
+        "detail": "multiagentTestClasses",
+        "documentation": {}
+    },
+    {
+        "label": "GameState",
+        "kind": 6,
+        "importPath": "pacman",
+        "description": "pacman",
+        "peekOfCode": "class GameState:\n    \"\"\"\n    A GameState specifies the full game state, including the food, capsules,\n    agent configurations and score changes.\n    GameStates are used by the Game object to capture the actual state of the game and\n    can be used by agents to reason about the game.\n    Much of the information in a GameState is stored in a GameStateData object.  We\n    strongly suggest that you access that data via the accessor methods below rather\n    than referring to the GameStateData object directly.\n    Note that in classic Pacman, Pacman is always agent 0.",
+        "detail": "pacman",
+        "documentation": {}
+    },
+    {
+        "label": "ClassicGameRules",
+        "kind": 6,
+        "importPath": "pacman",
+        "description": "pacman",
+        "peekOfCode": "class ClassicGameRules:\n    \"\"\"\n    These game rules manage the control flow of a game, deciding when\n    and how the game starts and ends.\n    \"\"\"\n    def __init__(self, timeout=30):\n        self.timeout = timeout\n    def newGame(self, layout, pacmanAgent, ghostAgents, display, quiet=False, catchExceptions=False):\n        agents = [pacmanAgent] + ghostAgents[:layout.getNumGhosts()]\n        initState = GameState()",
+        "detail": "pacman",
+        "documentation": {}
+    },
+    {
+        "label": "PacmanRules",
+        "kind": 6,
+        "importPath": "pacman",
+        "description": "pacman",
+        "peekOfCode": "class PacmanRules:\n    \"\"\"\n    These functions govern how pacman interacts with his environment under\n    the classic game rules.\n    \"\"\"\n    PACMAN_SPEED = 1\n    def getLegalActions(state):\n        \"\"\"\n        Returns a list of possible actions.\n        \"\"\"",
+        "detail": "pacman",
+        "documentation": {}
+    },
+    {
+        "label": "GhostRules",
+        "kind": 6,
+        "importPath": "pacman",
+        "description": "pacman",
+        "peekOfCode": "class GhostRules:\n    \"\"\"\n    These functions dictate how ghosts interact with their environment.\n    \"\"\"\n    GHOST_SPEED = 1.0\n    def getLegalActions(state, ghostIndex):\n        \"\"\"\n        Ghosts cannot stop, and cannot turn around unless they\n        reach a dead end, but can turn 90 degrees at intersections.\n        \"\"\"",
+        "detail": "pacman",
+        "documentation": {}
+    },
+    {
+        "label": "default",
+        "kind": 2,
+        "importPath": "pacman",
+        "description": "pacman",
+        "peekOfCode": "def default(str):\n    return str + ' [Default: %default]'\ndef parseAgentArgs(str):\n    if str == None:\n        return {}\n    pieces = str.split(',')\n    opts = {}\n    for p in pieces:\n        if '=' in p:\n            key, val = p.split('=')",
+        "detail": "pacman",
+        "documentation": {}
+    },
+    {
+        "label": "parseAgentArgs",
+        "kind": 2,
+        "importPath": "pacman",
+        "description": "pacman",
+        "peekOfCode": "def parseAgentArgs(str):\n    if str == None:\n        return {}\n    pieces = str.split(',')\n    opts = {}\n    for p in pieces:\n        if '=' in p:\n            key, val = p.split('=')\n        else:\n            key, val = p, 1",
+        "detail": "pacman",
+        "documentation": {}
+    },
+    {
+        "label": "readCommand",
+        "kind": 2,
+        "importPath": "pacman",
+        "description": "pacman",
+        "peekOfCode": "def readCommand(argv):\n    \"\"\"\n    Processes the command used to run pacman from the command line.\n    \"\"\"\n    from optparse import OptionParser\n    usageStr = \"\"\"\n    USAGE:      python pacman.py <options>\n    EXAMPLES:   (1) python pacman.py\n                    - starts an interactive game\n                (2) python pacman.py --layout smallClassic --zoom 2",
+        "detail": "pacman",
+        "documentation": {}
+    },
+    {
+        "label": "loadAgent",
+        "kind": 2,
+        "importPath": "pacman",
+        "description": "pacman",
+        "peekOfCode": "def loadAgent(pacman, nographics):\n    # Looks through all pythonPath Directories for the right module,\n    pythonPathStr = os.path.expandvars(\"$PYTHONPATH\")\n    if pythonPathStr.find(';') == -1:\n        pythonPathDirs = pythonPathStr.split(':')\n    else:\n        pythonPathDirs = pythonPathStr.split(';')\n    pythonPathDirs.append('.')\n    for moduleDir in pythonPathDirs:\n        if not os.path.isdir(moduleDir):",
+        "detail": "pacman",
+        "documentation": {}
+    },
+    {
+        "label": "replayGame",
+        "kind": 2,
+        "importPath": "pacman",
+        "description": "pacman",
+        "peekOfCode": "def replayGame(layout, actions, display):\n    import pacmanAgents\n    import ghostAgents\n    rules = ClassicGameRules()\n    agents = [pacmanAgents.GreedyAgent()] + [ghostAgents.RandomGhost(i+1)\n                                             for i in range(layout.getNumGhosts())]\n    game = rules.newGame(layout, agents[0], agents[1:], display)\n    state = game.state\n    display.initialize(state.data)\n    for action in actions:",
+        "detail": "pacman",
+        "documentation": {}
+    },
+    {
+        "label": "runGames",
+        "kind": 2,
+        "importPath": "pacman",
+        "description": "pacman",
+        "peekOfCode": "def runGames(layout, pacman, ghosts, display, numGames, record, numTraining=0, catchExceptions=False, timeout=30):\n    import __main__\n    __main__.__dict__['_display'] = display\n    rules = ClassicGameRules(timeout)\n    games = []\n    for i in range(numGames):\n        beQuiet = i < numTraining\n        if beQuiet:\n                # Suppress output and graphics\n            import textDisplay",
+        "detail": "pacman",
+        "documentation": {}
+    },
+    {
+        "label": "SCARED_TIME",
+        "kind": 5,
+        "importPath": "pacman",
+        "description": "pacman",
+        "peekOfCode": "SCARED_TIME = 40    # Moves ghosts are scared\nCOLLISION_TOLERANCE = 0.7  # How close ghosts must be to Pacman to kill\nTIME_PENALTY = 1  # Number of points lost each round\nclass ClassicGameRules:\n    \"\"\"\n    These game rules manage the control flow of a game, deciding when\n    and how the game starts and ends.\n    \"\"\"\n    def __init__(self, timeout=30):\n        self.timeout = timeout",
+        "detail": "pacman",
+        "documentation": {}
+    },
+    {
+        "label": "COLLISION_TOLERANCE",
+        "kind": 5,
+        "importPath": "pacman",
+        "description": "pacman",
+        "peekOfCode": "COLLISION_TOLERANCE = 0.7  # How close ghosts must be to Pacman to kill\nTIME_PENALTY = 1  # Number of points lost each round\nclass ClassicGameRules:\n    \"\"\"\n    These game rules manage the control flow of a game, deciding when\n    and how the game starts and ends.\n    \"\"\"\n    def __init__(self, timeout=30):\n        self.timeout = timeout\n    def newGame(self, layout, pacmanAgent, ghostAgents, display, quiet=False, catchExceptions=False):",
+        "detail": "pacman",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_PENALTY",
+        "kind": 5,
+        "importPath": "pacman",
+        "description": "pacman",
+        "peekOfCode": "TIME_PENALTY = 1  # Number of points lost each round\nclass ClassicGameRules:\n    \"\"\"\n    These game rules manage the control flow of a game, deciding when\n    and how the game starts and ends.\n    \"\"\"\n    def __init__(self, timeout=30):\n        self.timeout = timeout\n    def newGame(self, layout, pacmanAgent, ghostAgents, display, quiet=False, catchExceptions=False):\n        agents = [pacmanAgent] + ghostAgents[:layout.getNumGhosts()]",
+        "detail": "pacman",
+        "documentation": {}
+    },
+    {
+        "label": "LeftTurnAgent",
+        "kind": 6,
+        "importPath": "pacmanAgents",
+        "description": "pacmanAgents",
+        "peekOfCode": "class LeftTurnAgent(game.Agent):\n    \"An agent that turns left at every opportunity\"\n    def getAction(self, state):\n        legal = state.getLegalPacmanActions()\n        current = state.getPacmanState().configuration.direction\n        if current == Directions.STOP:\n            current = Directions.NORTH\n        left = Directions.LEFT[current]\n        if left in legal:\n            return left",
+        "detail": "pacmanAgents",
+        "documentation": {}
+    },
+    {
+        "label": "GreedyAgent",
+        "kind": 6,
+        "importPath": "pacmanAgents",
+        "description": "pacmanAgents",
+        "peekOfCode": "class GreedyAgent(Agent):\n    def __init__(self, evalFn=\"scoreEvaluation\"):\n        self.evaluationFunction = util.lookup(evalFn, globals())\n        assert self.evaluationFunction != None\n    def getAction(self, state):\n        # Generate candidate actions\n        legal = state.getLegalPacmanActions()\n        if Directions.STOP in legal:\n            legal.remove(Directions.STOP)\n        successors = [(state.generateSuccessor(0, action), action)",
+        "detail": "pacmanAgents",
+        "documentation": {}
+    },
+    {
+        "label": "scoreEvaluation",
+        "kind": 2,
+        "importPath": "pacmanAgents",
+        "description": "pacmanAgents",
+        "peekOfCode": "def scoreEvaluation(state):\n    return state.getScore()",
+        "detail": "pacmanAgents",
+        "documentation": {}
+    },
+    {
+        "label": "STUDENT_CODE_DEFAULT",
+        "kind": 5,
+        "importPath": "projectParams",
+        "description": "projectParams",
+        "peekOfCode": "STUDENT_CODE_DEFAULT = 'multiAgents.py'\nPROJECT_TEST_CLASSES = 'multiagentTestClasses.py'\nPROJECT_NAME = 'Project 2: Multiagent search'\nBONUS_PIC = False",
+        "detail": "projectParams",
+        "documentation": {}
+    },
+    {
+        "label": "PROJECT_TEST_CLASSES",
+        "kind": 5,
+        "importPath": "projectParams",
+        "description": "projectParams",
+        "peekOfCode": "PROJECT_TEST_CLASSES = 'multiagentTestClasses.py'\nPROJECT_NAME = 'Project 2: Multiagent search'\nBONUS_PIC = False",
+        "detail": "projectParams",
+        "documentation": {}
+    },
+    {
+        "label": "PROJECT_NAME",
+        "kind": 5,
+        "importPath": "projectParams",
+        "description": "projectParams",
+        "peekOfCode": "PROJECT_NAME = 'Project 2: Multiagent search'\nBONUS_PIC = False",
+        "detail": "projectParams",
+        "documentation": {}
+    },
+    {
+        "label": "BONUS_PIC",
+        "kind": 5,
+        "importPath": "projectParams",
+        "description": "projectParams",
+        "peekOfCode": "BONUS_PIC = False",
+        "detail": "projectParams",
+        "documentation": {}
+    },
+    {
+        "label": "Question",
+        "kind": 6,
+        "importPath": "testClasses",
+        "description": "testClasses",
+        "peekOfCode": "class Question(object):\n    def raiseNotDefined(self):\n        print('Method not implemented: %s' % inspect.stack()[1][3])\n        sys.exit(1)\n    def __init__(self, questionDict, display):\n        self.maxPoints = int(questionDict['max_points'])\n        self.testCases = []\n        self.display = display\n    def getDisplay(self):\n        return self.display",
+        "detail": "testClasses",
+        "documentation": {}
+    },
+    {
+        "label": "PassAllTestsQuestion",
+        "kind": 6,
+        "importPath": "testClasses",
+        "description": "testClasses",
+        "peekOfCode": "class PassAllTestsQuestion(Question):\n    def execute(self, grades):\n        # TODO: is this the right way to use grades?  The autograder doesn't seem to use it.\n        testsFailed = False\n        grades.assignZeroCredit()\n        for _, f in self.testCases:\n            if not f(grades):\n                testsFailed = True\n        if testsFailed:\n            grades.fail(\"Tests failed.\")",
+        "detail": "testClasses",
+        "documentation": {}
+    },
+    {
+        "label": "ExtraCreditPassAllTestsQuestion",
+        "kind": 6,
+        "importPath": "testClasses",
+        "description": "testClasses",
+        "peekOfCode": "class ExtraCreditPassAllTestsQuestion(Question):\n    def __init__(self, questionDict, display):\n        Question.__init__(self, questionDict, display)\n        self.extraPoints = int(questionDict['extra_points'])\n    def execute(self, grades):\n        # TODO: is this the right way to use grades?  The autograder doesn't seem to use it.\n        testsFailed = False\n        grades.assignZeroCredit()\n        for _, f in self.testCases:\n            if not f(grades):",
+        "detail": "testClasses",
+        "documentation": {}
+    },
+    {
+        "label": "HackedPartialCreditQuestion",
+        "kind": 6,
+        "importPath": "testClasses",
+        "description": "testClasses",
+        "peekOfCode": "class HackedPartialCreditQuestion(Question):\n    def execute(self, grades):\n        # TODO: is this the right way to use grades?  The autograder doesn't seem to use it.\n        grades.assignZeroCredit()\n        points = 0\n        passed = True\n        for testCase, f in self.testCases:\n            testResult = f(grades)\n            if \"points\" in testCase.testDict:\n                if testResult:",
+        "detail": "testClasses",
+        "documentation": {}
+    },
+    {
+        "label": "Q6PartialCreditQuestion",
+        "kind": 6,
+        "importPath": "testClasses",
+        "description": "testClasses",
+        "peekOfCode": "class Q6PartialCreditQuestion(Question):\n    \"\"\"Fails any test which returns False, otherwise doesn't effect the grades object.\n    Partial credit tests will add the required points.\"\"\"\n    def execute(self, grades):\n        grades.assignZeroCredit()\n        results = []\n        for _, f in self.testCases:\n            results.append(f(grades))\n        if False in results:\n            grades.assignZeroCredit()",
+        "detail": "testClasses",
+        "documentation": {}
+    },
+    {
+        "label": "PartialCreditQuestion",
+        "kind": 6,
+        "importPath": "testClasses",
+        "description": "testClasses",
+        "peekOfCode": "class PartialCreditQuestion(Question):\n    \"\"\"Fails any test which returns False, otherwise doesn't effect the grades object.\n    Partial credit tests will add the required points.\"\"\"\n    def execute(self, grades):\n        grades.assignZeroCredit()\n        for _, f in self.testCases:\n            if not f(grades):\n                grades.assignZeroCredit()\n                grades.fail(\"Tests failed.\")\n                return False",
+        "detail": "testClasses",
+        "documentation": {}
+    },
+    {
+        "label": "NumberPassedQuestion",
+        "kind": 6,
+        "importPath": "testClasses",
+        "description": "testClasses",
+        "peekOfCode": "class NumberPassedQuestion(Question):\n    \"\"\"Grade is the number of test cases passed.\"\"\"\n    def execute(self, grades):\n        grades.addPoints([f(grades) for _, f in self.testCases].count(True))\n# Template modeling a generic test case\nclass TestCase(object):\n    def raiseNotDefined(self):\n        print('Method not implemented: %s' % inspect.stack()[1][3])\n        sys.exit(1)\n    def getPath(self):",
+        "detail": "testClasses",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "kind": 6,
+        "importPath": "testClasses",
+        "description": "testClasses",
+        "peekOfCode": "class TestCase(object):\n    def raiseNotDefined(self):\n        print('Method not implemented: %s' % inspect.stack()[1][3])\n        sys.exit(1)\n    def getPath(self):\n        return self.path\n    def __init__(self, question, testDict):\n        self.question = question\n        self.testDict = testDict\n        self.path = testDict['path']",
+        "detail": "testClasses",
+        "documentation": {}
+    },
+    {
+        "label": "TestParser",
+        "kind": 6,
+        "importPath": "testParser",
+        "description": "testParser",
+        "peekOfCode": "class TestParser(object):\n    def __init__(self, path):\n        # save the path to the test file\n        self.path = path\n    def removeComments(self, rawlines):\n        # remove any portion of a line following a '#' symbol\n        fixed_lines = []\n        for l in rawlines:\n            idx = l.find('#')\n            if idx == -1:",
+        "detail": "testParser",
+        "documentation": {}
+    },
+    {
+        "label": "emitTestDict",
+        "kind": 2,
+        "importPath": "testParser",
+        "description": "testParser",
+        "peekOfCode": "def emitTestDict(testDict, handle):\n    for kind, data in testDict['__emit__']:\n        if kind == \"raw\":\n            handle.write(data + \"\\n\")\n        elif kind == \"oneline\":\n            handle.write('%s: \"%s\"\\n' % (data, testDict[data]))\n        elif kind == \"multiline\":\n            handle.write('%s: \"\"\"\\n%s\\n\"\"\"\\n' % (data, testDict[data]))\n        else:\n            raise Exception(\"Bad __emit__\")",
+        "detail": "testParser",
+        "documentation": {}
+    },
+    {
+        "label": "NullGraphics",
+        "kind": 6,
+        "importPath": "textDisplay",
+        "description": "textDisplay",
+        "peekOfCode": "class NullGraphics:\n    def initialize(self, state, isBlue=False):\n        pass\n    def update(self, state):\n        pass\n    def checkNullDisplay(self):\n        return True\n    def pause(self):\n        time.sleep(SLEEP_TIME)\n    def draw(self, state):",
+        "detail": "textDisplay",
+        "documentation": {}
+    },
+    {
+        "label": "PacmanGraphics",
+        "kind": 6,
+        "importPath": "textDisplay",
+        "description": "textDisplay",
+        "peekOfCode": "class PacmanGraphics:\n    def __init__(self, speed=None):\n        if speed != None:\n            global SLEEP_TIME\n            SLEEP_TIME = speed\n    def initialize(self, state, isBlue=False):\n        self.draw(state)\n        self.pause()\n        self.turn = 0\n        self.agentCounter = 0",
+        "detail": "textDisplay",
+        "documentation": {}
+    },
+    {
+        "label": "DRAW_EVERY",
+        "kind": 5,
+        "importPath": "textDisplay",
+        "description": "textDisplay",
+        "peekOfCode": "DRAW_EVERY = 1\nSLEEP_TIME = 0  # This can be overwritten by __init__\nDISPLAY_MOVES = False\nQUIET = False  # Supresses output\nclass NullGraphics:\n    def initialize(self, state, isBlue=False):\n        pass\n    def update(self, state):\n        pass\n    def checkNullDisplay(self):",
+        "detail": "textDisplay",
+        "documentation": {}
+    },
+    {
+        "label": "SLEEP_TIME",
+        "kind": 5,
+        "importPath": "textDisplay",
+        "description": "textDisplay",
+        "peekOfCode": "SLEEP_TIME = 0  # This can be overwritten by __init__\nDISPLAY_MOVES = False\nQUIET = False  # Supresses output\nclass NullGraphics:\n    def initialize(self, state, isBlue=False):\n        pass\n    def update(self, state):\n        pass\n    def checkNullDisplay(self):\n        return True",
+        "detail": "textDisplay",
+        "documentation": {}
+    },
+    {
+        "label": "DISPLAY_MOVES",
+        "kind": 5,
+        "importPath": "textDisplay",
+        "description": "textDisplay",
+        "peekOfCode": "DISPLAY_MOVES = False\nQUIET = False  # Supresses output\nclass NullGraphics:\n    def initialize(self, state, isBlue=False):\n        pass\n    def update(self, state):\n        pass\n    def checkNullDisplay(self):\n        return True\n    def pause(self):",
+        "detail": "textDisplay",
+        "documentation": {}
+    },
+    {
+        "label": "QUIET",
+        "kind": 5,
+        "importPath": "textDisplay",
+        "description": "textDisplay",
+        "peekOfCode": "QUIET = False  # Supresses output\nclass NullGraphics:\n    def initialize(self, state, isBlue=False):\n        pass\n    def update(self, state):\n        pass\n    def checkNullDisplay(self):\n        return True\n    def pause(self):\n        time.sleep(SLEEP_TIME)",
+        "detail": "textDisplay",
+        "documentation": {}
+    },
+    {
+        "label": "FixedRandom",
+        "kind": 6,
+        "importPath": "util",
+        "description": "util",
+        "peekOfCode": "class FixedRandom:\n    def __init__(self):\n        fixedState = (3, (2147483648, 507801126, 683453281, 310439348, 2597246090,\n                          2209084787, 2267831527, 979920060, 3098657677, 37650879, 807947081, 3974896263,\n                          881243242, 3100634921, 1334775171, 3965168385, 746264660, 4074750168, 500078808,\n                          776561771, 702988163, 1636311725, 2559226045, 157578202, 2498342920, 2794591496,\n                          4130598723, 496985844, 2944563015, 3731321600, 3514814613, 3362575829, 3038768745,\n                          2206497038, 1108748846, 1317460727, 3134077628, 988312410, 1674063516, 746456451,\n                          3958482413, 1857117812, 708750586, 1583423339, 3466495450, 1536929345, 1137240525,\n                          3875025632, 2466137587, 1235845595, 4214575620, 3792516855, 657994358, 1241843248,",
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "Stack",
+        "kind": 6,
+        "importPath": "util",
+        "description": "util",
+        "peekOfCode": "class Stack:\n    \"A container with a last-in-first-out (LIFO) queuing policy.\"\n    def __init__(self):\n        self.list = []\n    def push(self, item):\n        \"Push 'item' onto the stack\"\n        self.list.append(item)\n    def pop(self):\n        \"Pop the most recently pushed item from the stack\"\n        return self.list.pop()",
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "Queue",
+        "kind": 6,
+        "importPath": "util",
+        "description": "util",
+        "peekOfCode": "class Queue:\n    \"A container with a first-in-first-out (FIFO) queuing policy.\"\n    def __init__(self):\n        self.list = []\n    def push(self, item):\n        \"Enqueue the 'item' into the queue\"\n        self.list.insert(0, item)\n    def pop(self):\n        \"\"\"\n        Dequeue the earliest enqueued item still in the queue. This",
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "PriorityQueue",
+        "kind": 6,
+        "importPath": "util",
+        "description": "util",
+        "peekOfCode": "class PriorityQueue:\n    \"\"\"\n    Implements a priority queue data structure. Each inserted item\n    has a priority associated with it and the client is usually interested\n    in quick retrieval of the lowest-priority item in the queue. This\n    data structure allows O(1) access to the lowest-priority item.\n    \"\"\"\n    def __init__(self):\n        self.heap = []\n        self.count = 0",
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "PriorityQueueWithFunction",
+        "kind": 6,
+        "importPath": "util",
+        "description": "util",
+        "peekOfCode": "class PriorityQueueWithFunction(PriorityQueue):\n    \"\"\"\n    Implements a priority queue with the same push/pop signature of the\n    Queue and the Stack classes. This is designed for drop-in replacement for\n    those two classes. The caller has to provide a priority function, which\n    extracts each item's priority.\n    \"\"\"\n    def __init__(self, priorityFunction):\n        \"priorityFunction (item) -> priority\"\n        self.priorityFunction = priorityFunction      # store the priority function",
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "Counter",
+        "kind": 6,
+        "importPath": "util",
+        "description": "util",
+        "peekOfCode": "class Counter(dict):\n    \"\"\"\n    A counter keeps track of counts for a set of keys.\n    The counter class is an extension of the standard python\n    dictionary type.  It is specialized to have number values\n    (integers or floats), and includes a handful of additional\n    functions to ease the task of counting data.  In particular,\n    all keys are defaulted to have value 0.  Using a dictionary:\n    a = {}\n    print a['test']",
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "TimeoutFunctionException",
+        "kind": 6,
+        "importPath": "util",
+        "description": "util",
+        "peekOfCode": "class TimeoutFunctionException(Exception):\n    \"\"\"Exception to raise on a timeout\"\"\"\n    pass\nclass TimeoutFunction:\n    def __init__(self, function, timeout):\n        self.timeout = timeout\n        self.function = function\n    def handle_timeout(self, signum, frame):\n        raise TimeoutFunctionException()\n    def __call__(self, *args, **keyArgs):",
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "TimeoutFunction",
+        "kind": 6,
+        "importPath": "util",
+        "description": "util",
+        "peekOfCode": "class TimeoutFunction:\n    def __init__(self, function, timeout):\n        self.timeout = timeout\n        self.function = function\n    def handle_timeout(self, signum, frame):\n        raise TimeoutFunctionException()\n    def __call__(self, *args, **keyArgs):\n        # If we have SIGALRM signal, use it to cause an exception if and\n        # when this function runs too long.  Otherwise check the time taken\n        # after the method has returned, and throw an exception then.",
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "WritableNull",
+        "kind": 6,
+        "importPath": "util",
+        "description": "util",
+        "peekOfCode": "class WritableNull:\n    def write(self, string):\n        pass\ndef mutePrint():\n    global _ORIGINAL_STDOUT, _ORIGINAL_STDERR, _MUTED\n    if _MUTED:\n        return\n    _MUTED = True\n    _ORIGINAL_STDOUT = sys.stdout\n    #_ORIGINAL_STDERR = sys.stderr",
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "manhattanDistance",
+        "kind": 2,
+        "importPath": "util",
+        "description": "util",
+        "peekOfCode": "def manhattanDistance(xy1, xy2):\n    \"Returns the Manhattan distance between points xy1 and xy2\"\n    return abs(xy1[0] - xy2[0]) + abs(xy1[1] - xy2[1])\n\"\"\"\nData structures and functions useful for various course projects\nThe search project should not need anything below this line.\n\"\"\"\nclass Counter(dict):\n    \"\"\"\n    A counter keeps track of counts for a set of keys.",
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "raiseNotDefined",
+        "kind": 2,
+        "importPath": "util",
+        "description": "util",
+        "peekOfCode": "def raiseNotDefined():\n    fileName = inspect.stack()[1][1]\n    line = inspect.stack()[1][2]\n    method = inspect.stack()[1][3]\n    print(\"*** Method not implemented: %s at line %s of %s\" %\n          (method, line, fileName))\n    sys.exit(1)\ndef normalize(vectorOrCounter):\n    \"\"\"\n    Normalize a vector or counter by dividing each value by the sum of all values",
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "normalize",
+        "kind": 2,
+        "importPath": "util",
+        "description": "util",
+        "peekOfCode": "def normalize(vectorOrCounter):\n    \"\"\"\n    Normalize a vector or counter by dividing each value by the sum of all values\n    \"\"\"\n    normalizedCounter = Counter()\n    if type(vectorOrCounter) == type(normalizedCounter):\n        counter = vectorOrCounter\n        total = float(counter.totalCount())\n        if total == 0:\n            return counter",
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "nSample",
+        "kind": 2,
+        "importPath": "util",
+        "description": "util",
+        "peekOfCode": "def nSample(distribution, values, n):\n    if sum(distribution) != 1:\n        distribution = normalize(distribution)\n    rand = [random.random() for i in range(n)]\n    rand.sort()\n    samples = []\n    samplePos, distPos, cdf = 0, 0, distribution[0]\n    while samplePos < n:\n        if rand[samplePos] < cdf:\n            samplePos += 1",
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "sample",
+        "kind": 2,
+        "importPath": "util",
+        "description": "util",
+        "peekOfCode": "def sample(distribution, values=None):\n    if type(distribution) == Counter:\n        items = sorted(distribution.items())\n        distribution = [i[1] for i in items]\n        values = [i[0] for i in items]\n    if sum(distribution) != 1:\n        distribution = normalize(distribution)\n    choice = random.random()\n    i, total = 0, distribution[0]\n    while choice > total:",
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "sampleFromCounter",
+        "kind": 2,
+        "importPath": "util",
+        "description": "util",
+        "peekOfCode": "def sampleFromCounter(ctr):\n    items = sorted(ctr.items())\n    return sample([v for k, v in items], [k for k, v in items])\ndef getProbability(value, distribution, values):\n    \"\"\"\n    Gives the probability of a value under a discrete distribution\n    defined by (distributions, values).\n    \"\"\"\n    total = 0.0\n    for prob, val in zip(distribution, values):",
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "getProbability",
+        "kind": 2,
+        "importPath": "util",
+        "description": "util",
+        "peekOfCode": "def getProbability(value, distribution, values):\n    \"\"\"\n    Gives the probability of a value under a discrete distribution\n    defined by (distributions, values).\n    \"\"\"\n    total = 0.0\n    for prob, val in zip(distribution, values):\n        if val == value:\n            total += prob\n    return total",
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "flipCoin",
+        "kind": 2,
+        "importPath": "util",
+        "description": "util",
+        "peekOfCode": "def flipCoin(p):\n    r = random.random()\n    return r < p\ndef chooseFromDistribution(distribution):\n    \"Takes either a counter or a list of (prob, key) pairs and samples\"\n    if type(distribution) == dict or type(distribution) == Counter:\n        return sample(distribution)\n    r = random.random()\n    base = 0.0\n    for prob, element in distribution:",
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "chooseFromDistribution",
+        "kind": 2,
+        "importPath": "util",
+        "description": "util",
+        "peekOfCode": "def chooseFromDistribution(distribution):\n    \"Takes either a counter or a list of (prob, key) pairs and samples\"\n    if type(distribution) == dict or type(distribution) == Counter:\n        return sample(distribution)\n    r = random.random()\n    base = 0.0\n    for prob, element in distribution:\n        base += prob\n        if r <= base:\n            return element",
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "nearestPoint",
+        "kind": 2,
+        "importPath": "util",
+        "description": "util",
+        "peekOfCode": "def nearestPoint(pos):\n    \"\"\"\n    Finds the nearest grid point to a position (discretizes).\n    \"\"\"\n    (current_row, current_col) = pos\n    grid_row = int(current_row + 0.5)\n    grid_col = int(current_col + 0.5)\n    return (grid_row, grid_col)\ndef sign(x):\n    \"\"\"",
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "sign",
+        "kind": 2,
+        "importPath": "util",
+        "description": "util",
+        "peekOfCode": "def sign(x):\n    \"\"\"\n    Returns 1 or -1 depending on the sign of x\n    \"\"\"\n    if(x >= 0):\n        return 1\n    else:\n        return -1\ndef arrayInvert(array):\n    \"\"\"",
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "arrayInvert",
+        "kind": 2,
+        "importPath": "util",
+        "description": "util",
+        "peekOfCode": "def arrayInvert(array):\n    \"\"\"\n    Inverts a matrix stored as a list of lists.\n    \"\"\"\n    result = [[] for i in array]\n    for outer in array:\n        for inner in range(len(outer)):\n            result[inner].append(outer[inner])\n    return result\ndef matrixAsList(matrix, value=True):",
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "matrixAsList",
+        "kind": 2,
+        "importPath": "util",
+        "description": "util",
+        "peekOfCode": "def matrixAsList(matrix, value=True):\n    \"\"\"\n    Turns a matrix into a list of coordinates matching the specified value\n    \"\"\"\n    rows, cols = len(matrix), len(matrix[0])\n    cells = []\n    for row in range(rows):\n        for col in range(cols):\n            if matrix[row][col] == value:\n                cells.append((row, col))",
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "lookup",
+        "kind": 2,
+        "importPath": "util",
+        "description": "util",
+        "peekOfCode": "def lookup(name, namespace):\n    \"\"\"\n    Get a method or class from any imported module from its name.\n    Usage: lookup(functionName, globals())\n    \"\"\"\n    dots = name.count('.')\n    if dots > 0:\n        moduleName, objName = '.'.join(\n            name.split('.')[:-1]), name.split('.')[-1]\n        module = __import__(moduleName)",
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "pause",
+        "kind": 2,
+        "importPath": "util",
+        "description": "util",
+        "peekOfCode": "def pause():\n    \"\"\"\n    Pauses the output stream awaiting user feedback.\n    \"\"\"\n    print(\"<Press enter/return to continue>\")\n    input()\n# code to handle timeouts\n#\n# FIXME\n# NOTE: TimeoutFuncton is NOT reentrant.  Later timeouts will silently",
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "mutePrint",
+        "kind": 2,
+        "importPath": "util",
+        "description": "util",
+        "peekOfCode": "def mutePrint():\n    global _ORIGINAL_STDOUT, _ORIGINAL_STDERR, _MUTED\n    if _MUTED:\n        return\n    _MUTED = True\n    _ORIGINAL_STDOUT = sys.stdout\n    #_ORIGINAL_STDERR = sys.stderr\n    sys.stdout = WritableNull()\n    #sys.stderr = WritableNull()\ndef unmutePrint():",
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "unmutePrint",
+        "kind": 2,
+        "importPath": "util",
+        "description": "util",
+        "peekOfCode": "def unmutePrint():\n    global _ORIGINAL_STDOUT, _ORIGINAL_STDERR, _MUTED\n    if not _MUTED:\n        return\n    _MUTED = False\n    sys.stdout = _ORIGINAL_STDOUT\n    #sys.stderr = _ORIGINAL_STDERR",
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "_ORIGINAL_STDOUT",
+        "kind": 5,
+        "importPath": "util",
+        "description": "util",
+        "peekOfCode": "_ORIGINAL_STDOUT = None\n_ORIGINAL_STDERR = None\n_MUTED = False\nclass WritableNull:\n    def write(self, string):\n        pass\ndef mutePrint():\n    global _ORIGINAL_STDOUT, _ORIGINAL_STDERR, _MUTED\n    if _MUTED:\n        return",
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "_ORIGINAL_STDERR",
+        "kind": 5,
+        "importPath": "util",
+        "description": "util",
+        "peekOfCode": "_ORIGINAL_STDERR = None\n_MUTED = False\nclass WritableNull:\n    def write(self, string):\n        pass\ndef mutePrint():\n    global _ORIGINAL_STDOUT, _ORIGINAL_STDERR, _MUTED\n    if _MUTED:\n        return\n    _MUTED = True",
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "_MUTED",
+        "kind": 5,
+        "importPath": "util",
+        "description": "util",
+        "peekOfCode": "_MUTED = False\nclass WritableNull:\n    def write(self, string):\n        pass\ndef mutePrint():\n    global _ORIGINAL_STDOUT, _ORIGINAL_STDERR, _MUTED\n    if _MUTED:\n        return\n    _MUTED = True\n    _ORIGINAL_STDOUT = sys.stdout",
+        "detail": "util",
+        "documentation": {}
+    }
+]

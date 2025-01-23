@@ -215,8 +215,60 @@ class AlphaBetaAgent(MultiAgentSearchAgent):
         Returns the minimax action using self.depth and self.evaluationFunction
         """
         "*** YOUR CODE HERE ***"
-        util.raiseNotDefined()
+        #initialize vars - negative infinity as we want to maximize, and 0 as best move
+        maxvar = -float('inf')
+        mmaction = 0
+        alphas = [-float('inf')]
+        for _ in range(1, gameState.getNumAgents()):
+          alphas.append(float('inf'))
 
+        def findV(state, depth, alphas):
+          #base case
+          if (state.isWin() | state.isLose()) | (depth == self.depth*state.getNumAgents()):
+            return self.evaluationFunction(state)
+
+          # determine the current agent's index 
+          agentIndex = depth % state.getNumAgents()
+          isMax = agentIndex == 0
+          return value(state, depth, agentIndex, alphas, isMax)
+
+
+        def value(state, depth, agentIndex, alphas, isMax):
+            alphas = alphas[:]  # create a copy of alpha values to avoid modifying the og list
+            if isMax:
+                v = -float('inf')  # Initialize v for maximizing player
+                compf = max  # comparison function for maximizing player
+                cvalue = min(alphas[1:])  # comparison value 
+            else:
+                v = float('inf')  # Initialize v for minimizing player
+                compf = min  # comparison function for minimizing player
+                cvalue = alphas[0]  # comparison value 
+
+            # iterate through legal actions and calculate the value
+            for action in state.getLegalActions(agentIndex):
+                successor = state.generateSuccessor(agentIndex, action)
+                v = compf(v, findV(successor, depth + 1, alphas))
+                if isMax and v > cvalue:
+                    return v
+                elif not isMax and v < cvalue:
+                    return v
+                alphas[agentIndex] = compf(alphas[agentIndex], v)
+
+            return v
+      
+        # check states and return the evaluation function value
+        if gameState.isWin() | gameState.isLose():
+            return self.evaluationFunction(gameState)
+
+        # loop through actions for Pac-Man
+        for action in gameState.getLegalActions(0):
+            result = findV(gameState.generateSuccessor(0, action), 1, alphas) 
+            if result > maxvar:  # update the best move and alpha value 
+                mmaction = action
+                maxvar = result
+            alphas[0] = max(alphas[0], maxvar)
+
+        return mmaction #return the best move
 class ExpectimaxAgent(MultiAgentSearchAgent):
     """
       Your expectimax agent (question 4)
